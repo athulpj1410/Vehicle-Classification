@@ -1,0 +1,5001 @@
+CustomerID,vehicle_choice
+CusID_30000,Sports Utility Vehicle
+CusID_30001,Sports Utility Vehicle
+CusID_30002,Crossover
+CusID_30003,Luxury Coupe
+CusID_30004,Hatchback
+CusID_30005,Sedan
+CusID_30006,Sedan
+CusID_30007,Luxury Sedan
+CusID_30008,Sports Utility Vehicle
+CusID_30009,Utility Vehicle
+CusID_30010,Compact Utility Vehicle
+CusID_30011,Hatchback
+CusID_30012,Utility Vehicle
+CusID_30013,Crossover
+CusID_30014,Sports Utility Vehicle
+CusID_30015,Compact Sedan
+CusID_30016,Crossover
+CusID_30017,Utility Vehicle
+CusID_30018,Convertible
+CusID_30019,Compact Sedan
+CusID_30020,Crossover
+CusID_30021,Luxury Sedan
+CusID_30022,Utility Vehicle
+CusID_30023,Compact Utility Vehicle
+CusID_30024,Luxury Coupe
+CusID_30025,Utility Vehicle
+CusID_30026,Crossover
+CusID_30027,Sports Utility Vehicle
+CusID_30028,Hatchback
+CusID_30029,Convertible
+CusID_30030,Compact Sedan
+CusID_30031,Compact Utility Vehicle
+CusID_30032,Sedan
+CusID_30033,Luxury Coupe
+CusID_30034,Utility Vehicle
+CusID_30035,Sports Sedan
+CusID_30036,Luxury Sedan
+CusID_30037,Sports Sedan
+CusID_30038,Sports Sedan
+CusID_30039,Utility Vehicle
+CusID_30040,Hatchback
+CusID_30041,Luxury Coupe
+CusID_30042,Compact Utility Vehicle
+CusID_30043,Compact Utility Vehicle
+CusID_30044,Luxury Sedan
+CusID_30045,Minivan
+CusID_30046,Compact Utility Vehicle
+CusID_30047,Compact Utility Vehicle
+CusID_30048,Sports Coupe
+CusID_30049,Compact Utility Vehicle
+CusID_30050,Crossover
+CusID_30051,Compact Utility Vehicle
+CusID_30052,Utility Vehicle
+CusID_30053,Utility Vehicle
+CusID_30054,Sedan
+CusID_30055,Compact Utility Vehicle
+CusID_30056,Luxury Coupe
+CusID_30057,Crossover
+CusID_30058,Crossover
+CusID_30059,Sports Utility Vehicle
+CusID_30060,Sports Sedan
+CusID_30061,Compact Utility Vehicle
+CusID_30062,Sports Utility Vehicle
+CusID_30063,Sedan
+CusID_30064,Coupe
+CusID_30065,Compact Utility Vehicle
+CusID_30066,Sedan
+CusID_30067,Compact Utility Vehicle
+CusID_30068,Crossover
+CusID_30069,Utility Vehicle
+CusID_30070,Compact Sedan
+CusID_30071,Sports Sedan
+CusID_30072,Sports Sedan
+CusID_30073,Luxury Sedan
+CusID_30074,Luxury Sedan
+CusID_30075,Pickup-Truck
+CusID_30076,Utility Vehicle
+CusID_30077,Compact Utility Vehicle
+CusID_30078,Sports Utility Vehicle
+CusID_30079,Utility Vehicle
+CusID_30080,Crossover
+CusID_30081,Utility Vehicle
+CusID_30082,Station Wagon
+CusID_30083,Sedan
+CusID_30084,Crossover
+CusID_30085,Compact Utility Vehicle
+CusID_30086,Crossover
+CusID_30087,Luxury Sedan
+CusID_30088,Crossover
+CusID_30089,Compact Utility Vehicle
+CusID_30090,Utility Vehicle
+CusID_30091,Crossover
+CusID_30092,Utility Vehicle
+CusID_30093,Crossover
+CusID_30094,Hatchback
+CusID_30095,Compact Utility Vehicle
+CusID_30096,Sedan
+CusID_30097,Luxury Sedan
+CusID_30098,Sports Sedan
+CusID_30099,Sports Utility Vehicle
+CusID_30100,Compact Sedan
+CusID_30101,Sports Utility Vehicle
+CusID_30102,Crossover
+CusID_30103,Luxury Sedan
+CusID_30104,Luxury Coupe
+CusID_30105,Luxury Sedan
+CusID_30106,Sports Sedan
+CusID_30107,Luxury Sedan
+CusID_30108,Sedan
+CusID_30109,Pickup-Truck
+CusID_30110,Utility Vehicle
+CusID_30111,Sedan
+CusID_30112,Sports Coupe
+CusID_30113,Luxury Coupe
+CusID_30114,Coupe
+CusID_30115,Sedan
+CusID_30116,Luxury Sedan
+CusID_30117,Compact Utility Vehicle
+CusID_30118,Sportscar
+CusID_30119,Hatchback
+CusID_30120,Luxury Sedan
+CusID_30121,Sportscar
+CusID_30122,Compact Utility Vehicle
+CusID_30123,Luxury Sedan
+CusID_30124,Crossover
+CusID_30125,Compact Utility Vehicle
+CusID_30126,Compact Utility Vehicle
+CusID_30127,Crossover
+CusID_30128,Sports Sedan
+CusID_30129,Luxury Sedan
+CusID_30130,Hatchback
+CusID_30131,Compact Sedan
+CusID_30132,Sports Utility Vehicle
+CusID_30133,Sports Sedan
+CusID_30134,Luxury Coupe
+CusID_30135,Luxury Coupe
+CusID_30136,Utility Vehicle
+CusID_30137,Sedan
+CusID_30138,Sports Utility Vehicle
+CusID_30139,Luxury Coupe
+CusID_30140,Sports Sedan
+CusID_30141,Convertible
+CusID_30142,Luxury Sedan
+CusID_30143,Crossover
+CusID_30144,Crossover
+CusID_30145,Sports Sedan
+CusID_30146,Crossover
+CusID_30147,Crossover
+CusID_30148,Pickup-Truck
+CusID_30149,Sports Sedan
+CusID_30150,Station Wagon
+CusID_30151,Compact Utility Vehicle
+CusID_30152,Sports Utility Vehicle
+CusID_30153,Utility Vehicle
+CusID_30154,Luxury Sedan
+CusID_30155,Luxury Sedan
+CusID_30156,Compact Utility Vehicle
+CusID_30157,Sports Utility Vehicle
+CusID_30158,Sports Utility Vehicle
+CusID_30159,Hatchback
+CusID_30160,Compact Utility Vehicle
+CusID_30161,Luxury Sedan
+CusID_30162,Pickup-Truck
+CusID_30163,Compact Sedan
+CusID_30164,Compact Utility Vehicle
+CusID_30165,Crossover
+CusID_30166,Luxury Coupe
+CusID_30167,Sports Utility Vehicle
+CusID_30168,Compact Utility Vehicle
+CusID_30169,Sedan
+CusID_30170,Luxury Sedan
+CusID_30171,Hatchback
+CusID_30172,Crossover
+CusID_30173,Luxury Sedan
+CusID_30174,Crossover
+CusID_30175,Utility Vehicle
+CusID_30176,Sportscar
+CusID_30177,Luxury Sedan
+CusID_30178,Sports Utility Vehicle
+CusID_30179,Luxury Sedan
+CusID_30180,Crossover
+CusID_30181,Luxury Sedan
+CusID_30182,Pickup-Truck
+CusID_30183,Compact Utility Vehicle
+CusID_30184,Sedan
+CusID_30185,Luxury Coupe
+CusID_30186,Hatchback
+CusID_30187,Utility Vehicle
+CusID_30188,Compact Utility Vehicle
+CusID_30189,Luxury Sedan
+CusID_30190,Pickup-Truck
+CusID_30191,Utility Vehicle
+CusID_30192,Compact Utility Vehicle
+CusID_30193,Sports Utility Vehicle
+CusID_30194,Luxury Sedan
+CusID_30195,Compact Utility Vehicle
+CusID_30196,Luxury Coupe
+CusID_30197,Crossover
+CusID_30198,Compact Sedan
+CusID_30199,Sports Utility Vehicle
+CusID_30200,Convertible
+CusID_30201,Sports Utility Vehicle
+CusID_30202,Crossover
+CusID_30203,Sports Sedan
+CusID_30204,Hatchback
+CusID_30205,Utility Vehicle
+CusID_30206,Sedan
+CusID_30207,Pickup-Truck
+CusID_30208,Sports Utility Vehicle
+CusID_30209,Hatchback
+CusID_30210,Sports Sedan
+CusID_30211,Utility Vehicle
+CusID_30212,Crossover
+CusID_30213,Sedan
+CusID_30214,Sports Utility Vehicle
+CusID_30215,Sports Utility Vehicle
+CusID_30216,Sports Sedan
+CusID_30217,Pickup-Truck
+CusID_30218,Compact Utility Vehicle
+CusID_30219,Sedan
+CusID_30220,Sports Sedan
+CusID_30221,Luxury Sedan
+CusID_30222,Pickup-Truck
+CusID_30223,Sportscar
+CusID_30224,Sedan
+CusID_30225,Utility Vehicle
+CusID_30226,Compact Utility Vehicle
+CusID_30227,Crossover
+CusID_30228,Pickup-Truck
+CusID_30229,Sports Sedan
+CusID_30230,Luxury Sedan
+CusID_30231,Utility Vehicle
+CusID_30232,Station Wagon
+CusID_30233,Luxury Sedan
+CusID_30234,Crossover
+CusID_30235,Compact Utility Vehicle
+CusID_30236,Crossover
+CusID_30237,Hatchback
+CusID_30238,Crossover
+CusID_30239,Compact Utility Vehicle
+CusID_30240,Sedan
+CusID_30241,Crossover
+CusID_30242,Compact Sedan
+CusID_30243,Crossover
+CusID_30244,Compact Sedan
+CusID_30245,Hatchback
+CusID_30246,Hatchback
+CusID_30247,Station Wagon
+CusID_30248,Convertible
+CusID_30249,Utility Vehicle
+CusID_30250,Utility Vehicle
+CusID_30251,Convertible
+CusID_30252,Luxury Sedan
+CusID_30253,Luxury Sedan
+CusID_30254,Pickup-Truck
+CusID_30255,Sports Sedan
+CusID_30256,Sports Utility Vehicle
+CusID_30257,Convertible
+CusID_30258,Sports Coupe
+CusID_30259,Convertible
+CusID_30260,Crossover
+CusID_30261,Compact Utility Vehicle
+CusID_30262,Luxury Sedan
+CusID_30263,Luxury Sedan
+CusID_30264,Utility Vehicle
+CusID_30265,Station Wagon
+CusID_30266,Sports Utility Vehicle
+CusID_30267,Crossover
+CusID_30268,Utility Vehicle
+CusID_30269,Compact Utility Vehicle
+CusID_30270,Sports Sedan
+CusID_30271,Compact Utility Vehicle
+CusID_30272,Sedan
+CusID_30273,Sportscar
+CusID_30274,Station Wagon
+CusID_30275,Pickup-Truck
+CusID_30276,Sports Utility Vehicle
+CusID_30277,Utility Vehicle
+CusID_30278,Convertible
+CusID_30279,Sports Sedan
+CusID_30280,Sports Sedan
+CusID_30281,Crossover
+CusID_30282,Sedan
+CusID_30283,Crossover
+CusID_30284,Pickup-Truck
+CusID_30285,Pickup-Truck
+CusID_30286,Sports Sedan
+CusID_30287,Luxury Sedan
+CusID_30288,Convertible
+CusID_30289,Sports Coupe
+CusID_30290,Pickup-Truck
+CusID_30291,Luxury Sedan
+CusID_30292,Sedan
+CusID_30293,Sedan
+CusID_30294,Minivan
+CusID_30295,Luxury Sedan
+CusID_30296,Compact Utility Vehicle
+CusID_30297,Luxury Sedan
+CusID_30298,Coupe
+CusID_30299,Crossover
+CusID_30300,Station Wagon
+CusID_30301,Crossover
+CusID_30302,Luxury Sedan
+CusID_30303,Sports Sedan
+CusID_30304,Sports Utility Vehicle
+CusID_30305,Luxury Coupe
+CusID_30306,Sports Utility Vehicle
+CusID_30307,Sedan
+CusID_30308,Pickup-Truck
+CusID_30309,Luxury Sedan
+CusID_30310,Utility Vehicle
+CusID_30311,Compact Utility Vehicle
+CusID_30312,Luxury Sedan
+CusID_30313,Sports Utility Vehicle
+CusID_30314,Sportscar
+CusID_30315,Compact Utility Vehicle
+CusID_30316,Minivan
+CusID_30317,Sedan
+CusID_30318,Compact Sedan
+CusID_30319,Luxury Sedan
+CusID_30320,Sports Sedan
+CusID_30321,Luxury Sedan
+CusID_30322,Convertible
+CusID_30323,Sports Sedan
+CusID_30324,Sports Utility Vehicle
+CusID_30325,Sedan
+CusID_30326,Utility Vehicle
+CusID_30327,Sports Utility Vehicle
+CusID_30328,Luxury Sedan
+CusID_30329,Sports Coupe
+CusID_30330,Sedan
+CusID_30331,Sportscar
+CusID_30332,Sportscar
+CusID_30333,Utility Vehicle
+CusID_30334,Compact Utility Vehicle
+CusID_30335,Minivan
+CusID_30336,Pickup-Truck
+CusID_30337,Pickup-Truck
+CusID_30338,Pickup-Truck
+CusID_30339,Sedan
+CusID_30340,Utility Vehicle
+CusID_30341,Luxury Sedan
+CusID_30342,Compact Utility Vehicle
+CusID_30343,Compact Utility Vehicle
+CusID_30344,Luxury Sedan
+CusID_30345,Pickup-Truck
+CusID_30346,Sports Utility Vehicle
+CusID_30347,Utility Vehicle
+CusID_30348,Sports Sedan
+CusID_30349,Minivan
+CusID_30350,Utility Vehicle
+CusID_30351,Sports Utility Vehicle
+CusID_30352,Compact Utility Vehicle
+CusID_30353,Sports Utility Vehicle
+CusID_30354,Sports Utility Vehicle
+CusID_30355,Compact Utility Vehicle
+CusID_30356,Sedan
+CusID_30357,Hatchback
+CusID_30358,Sports Utility Vehicle
+CusID_30359,Crossover
+CusID_30360,Crossover
+CusID_30361,Compact Utility Vehicle
+CusID_30362,Sports Sedan
+CusID_30363,Compact Utility Vehicle
+CusID_30364,Compact Utility Vehicle
+CusID_30365,Sports Sedan
+CusID_30366,Luxury Sedan
+CusID_30367,Compact Utility Vehicle
+CusID_30368,Luxury Sedan
+CusID_30369,Compact Utility Vehicle
+CusID_30370,Compact Utility Vehicle
+CusID_30371,Crossover
+CusID_30372,Sports Sedan
+CusID_30373,Sports Coupe
+CusID_30374,Crossover
+CusID_30375,Sedan
+CusID_30376,Crossover
+CusID_30377,Crossover
+CusID_30378,Crossover
+CusID_30379,Utility Vehicle
+CusID_30380,Crossover
+CusID_30381,Hatchback
+CusID_30382,Compact Utility Vehicle
+CusID_30383,Luxury Sedan
+CusID_30384,Luxury Sedan
+CusID_30385,Sports Coupe
+CusID_30386,Sportscar
+CusID_30387,Utility Vehicle
+CusID_30388,Crossover
+CusID_30389,Compact Utility Vehicle
+CusID_30390,Hatchback
+CusID_30391,Sedan
+CusID_30392,Crossover
+CusID_30393,Crossover
+CusID_30394,Compact Sedan
+CusID_30395,Sports Sedan
+CusID_30396,Crossover
+CusID_30397,Sedan
+CusID_30398,Hatchback
+CusID_30399,Sports Utility Vehicle
+CusID_30400,Luxury Sedan
+CusID_30401,Pickup-Truck
+CusID_30402,Compact Sedan
+CusID_30403,Luxury Coupe
+CusID_30404,Luxury Sedan
+CusID_30405,Sports Sedan
+CusID_30406,Sports Sedan
+CusID_30407,Compact Utility Vehicle
+CusID_30408,Sedan
+CusID_30409,Luxury Sedan
+CusID_30410,Luxury Sedan
+CusID_30411,Sportscar
+CusID_30412,Sports Utility Vehicle
+CusID_30413,Luxury Sedan
+CusID_30414,Luxury Sedan
+CusID_30415,Luxury Sedan
+CusID_30416,Hatchback
+CusID_30417,Sedan
+CusID_30418,Sports Coupe
+CusID_30419,Utility Vehicle
+CusID_30420,Sports Utility Vehicle
+CusID_30421,Pickup-Truck
+CusID_30422,Utility Vehicle
+CusID_30423,Luxury Sedan
+CusID_30424,Hatchback
+CusID_30425,Sedan
+CusID_30426,Sports Sedan
+CusID_30427,Convertible
+CusID_30428,Convertible
+CusID_30429,Sedan
+CusID_30430,Pickup-Truck
+CusID_30431,Sports Sedan
+CusID_30432,Luxury Sedan
+CusID_30433,Compact Sedan
+CusID_30434,Utility Vehicle
+CusID_30435,Pickup-Truck
+CusID_30436,Sports Utility Vehicle
+CusID_30437,Luxury Sedan
+CusID_30438,Pickup-Truck
+CusID_30439,Luxury Coupe
+CusID_30440,Luxury Sedan
+CusID_30441,Sports Utility Vehicle
+CusID_30442,Luxury Sedan
+CusID_30443,Sports Sedan
+CusID_30444,Compact Utility Vehicle
+CusID_30445,Crossover
+CusID_30446,Luxury Sedan
+CusID_30447,Sports Sedan
+CusID_30448,Utility Vehicle
+CusID_30449,Utility Vehicle
+CusID_30450,Luxury Sedan
+CusID_30451,Sportscar
+CusID_30452,Sedan
+CusID_30453,Sports Sedan
+CusID_30454,Sedan
+CusID_30455,Luxury Sedan
+CusID_30456,Luxury Sedan
+CusID_30457,Sports Sedan
+CusID_30458,Coupe
+CusID_30459,Compact Utility Vehicle
+CusID_30460,Crossover
+CusID_30461,Crossover
+CusID_30462,Crossover
+CusID_30463,Sports Sedan
+CusID_30464,Sportscar
+CusID_30465,Sports Utility Vehicle
+CusID_30466,Sports Sedan
+CusID_30467,Luxury Sedan
+CusID_30468,Sports Utility Vehicle
+CusID_30469,Minivan
+CusID_30470,Compact Utility Vehicle
+CusID_30471,Compact Utility Vehicle
+CusID_30472,Sports Sedan
+CusID_30473,Utility Vehicle
+CusID_30474,Luxury Sedan
+CusID_30475,Pickup-Truck
+CusID_30476,Sports Sedan
+CusID_30477,Hatchback
+CusID_30478,Crossover
+CusID_30479,Hatchback
+CusID_30480,Pickup-Truck
+CusID_30481,Utility Vehicle
+CusID_30482,Sports Utility Vehicle
+CusID_30483,Utility Vehicle
+CusID_30484,Sedan
+CusID_30485,Sports Sedan
+CusID_30486,Sedan
+CusID_30487,Station Wagon
+CusID_30488,Sportscar
+CusID_30489,Compact Sedan
+CusID_30490,Compact Utility Vehicle
+CusID_30491,Sports Coupe
+CusID_30492,Utility Vehicle
+CusID_30493,Hatchback
+CusID_30494,Sedan
+CusID_30495,Compact Utility Vehicle
+CusID_30496,Minivan
+CusID_30497,Hatchback
+CusID_30498,Luxury Coupe
+CusID_30499,Crossover
+CusID_30500,Sedan
+CusID_30501,Crossover
+CusID_30502,Crossover
+CusID_30503,Sedan
+CusID_30504,Utility Vehicle
+CusID_30505,Compact Utility Vehicle
+CusID_30506,Sedan
+CusID_30507,Sedan
+CusID_30508,Sports Utility Vehicle
+CusID_30509,Sports Sedan
+CusID_30510,Sedan
+CusID_30511,Utility Vehicle
+CusID_30512,Luxury Sedan
+CusID_30513,Crossover
+CusID_30514,Compact Sedan
+CusID_30515,Pickup-Truck
+CusID_30516,Luxury Sedan
+CusID_30517,Sedan
+CusID_30518,Compact Utility Vehicle
+CusID_30519,Sedan
+CusID_30520,Sports Utility Vehicle
+CusID_30521,Sportscar
+CusID_30522,Luxury Sedan
+CusID_30523,Sports Sedan
+CusID_30524,Sedan
+CusID_30525,Sedan
+CusID_30526,Sports Sedan
+CusID_30527,Crossover
+CusID_30528,Sports Utility Vehicle
+CusID_30529,Compact Utility Vehicle
+CusID_30530,Compact Utility Vehicle
+CusID_30531,Sedan
+CusID_30532,Compact Utility Vehicle
+CusID_30533,Compact Utility Vehicle
+CusID_30534,Sedan
+CusID_30535,Sports Utility Vehicle
+CusID_30536,Compact Utility Vehicle
+CusID_30537,Sports Sedan
+CusID_30538,Sedan
+CusID_30539,Luxury Coupe
+CusID_30540,Sports Utility Vehicle
+CusID_30541,Sports Coupe
+CusID_30542,Sportscar
+CusID_30543,Sports Sedan
+CusID_30544,Sports Sedan
+CusID_30545,Sedan
+CusID_30546,Sports Utility Vehicle
+CusID_30547,Sportscar
+CusID_30548,Compact Sedan
+CusID_30549,Compact Utility Vehicle
+CusID_30550,Utility Vehicle
+CusID_30551,Sportscar
+CusID_30552,Sports Utility Vehicle
+CusID_30553,Luxury Sedan
+CusID_30554,Sedan
+CusID_30555,Sedan
+CusID_30556,Utility Vehicle
+CusID_30557,Sedan
+CusID_30558,Sports Utility Vehicle
+CusID_30559,Compact Utility Vehicle
+CusID_30560,Utility Vehicle
+CusID_30561,Utility Vehicle
+CusID_30562,Utility Vehicle
+CusID_30563,Coupe
+CusID_30564,Convertible
+CusID_30565,Sedan
+CusID_30566,Luxury Sedan
+CusID_30567,Convertible
+CusID_30568,Sports Utility Vehicle
+CusID_30569,Hatchback
+CusID_30570,Sedan
+CusID_30571,Luxury Sedan
+CusID_30572,Sedan
+CusID_30573,Luxury Sedan
+CusID_30574,Luxury Sedan
+CusID_30575,Coupe
+CusID_30576,Pickup-Truck
+CusID_30577,Sedan
+CusID_30578,Compact Utility Vehicle
+CusID_30579,Sports Sedan
+CusID_30580,Sports Sedan
+CusID_30581,Utility Vehicle
+CusID_30582,Luxury Sedan
+CusID_30583,Luxury Sedan
+CusID_30584,Sports Sedan
+CusID_30585,Compact Utility Vehicle
+CusID_30586,Sedan
+CusID_30587,Luxury Sedan
+CusID_30588,Sports Sedan
+CusID_30589,Sedan
+CusID_30590,Sports Sedan
+CusID_30591,Pickup-Truck
+CusID_30592,Hatchback
+CusID_30593,Luxury Sedan
+CusID_30594,Coupe
+CusID_30595,Utility Vehicle
+CusID_30596,Luxury Sedan
+CusID_30597,Sportscar
+CusID_30598,Sports Utility Vehicle
+CusID_30599,Hatchback
+CusID_30600,Utility Vehicle
+CusID_30601,Sports Utility Vehicle
+CusID_30602,Sports Utility Vehicle
+CusID_30603,Sports Sedan
+CusID_30604,Hatchback
+CusID_30605,Sports Utility Vehicle
+CusID_30606,Compact Sedan
+CusID_30607,Utility Vehicle
+CusID_30608,Sports Utility Vehicle
+CusID_30609,Compact Utility Vehicle
+CusID_30610,Luxury Sedan
+CusID_30611,Sports Sedan
+CusID_30612,Hatchback
+CusID_30613,Luxury Sedan
+CusID_30614,Luxury Sedan
+CusID_30615,Compact Sedan
+CusID_30616,Sports Utility Vehicle
+CusID_30617,Sports Utility Vehicle
+CusID_30618,Crossover
+CusID_30619,Compact Sedan
+CusID_30620,Luxury Sedan
+CusID_30621,Pickup-Truck
+CusID_30622,Compact Utility Vehicle
+CusID_30623,Utility Vehicle
+CusID_30624,Crossover
+CusID_30625,Compact Utility Vehicle
+CusID_30626,Utility Vehicle
+CusID_30627,Convertible
+CusID_30628,Pickup-Truck
+CusID_30629,Sports Utility Vehicle
+CusID_30630,Pickup-Truck
+CusID_30631,Compact Sedan
+CusID_30632,Sportscar
+CusID_30633,Compact Utility Vehicle
+CusID_30634,Hatchback
+CusID_30635,Sports Utility Vehicle
+CusID_30636,Hatchback
+CusID_30637,Coupe
+CusID_30638,Utility Vehicle
+CusID_30639,Utility Vehicle
+CusID_30640,Sports Coupe
+CusID_30641,Compact Utility Vehicle
+CusID_30642,Luxury Sedan
+CusID_30643,Sports Coupe
+CusID_30644,Sports Sedan
+CusID_30645,Pickup-Truck
+CusID_30646,Crossover
+CusID_30647,Utility Vehicle
+CusID_30648,Sports Utility Vehicle
+CusID_30649,Sports Utility Vehicle
+CusID_30650,Hatchback
+CusID_30651,Utility Vehicle
+CusID_30652,Hatchback
+CusID_30653,Pickup-Truck
+CusID_30654,Crossover
+CusID_30655,Utility Vehicle
+CusID_30656,Sports Coupe
+CusID_30657,Hatchback
+CusID_30658,Station Wagon
+CusID_30659,Pickup-Truck
+CusID_30660,Sports Utility Vehicle
+CusID_30661,Utility Vehicle
+CusID_30662,Sports Coupe
+CusID_30663,Luxury Coupe
+CusID_30664,Sports Utility Vehicle
+CusID_30665,Crossover
+CusID_30666,Sports Sedan
+CusID_30667,Sedan
+CusID_30668,Compact Sedan
+CusID_30669,Sedan
+CusID_30670,Sedan
+CusID_30671,Sports Utility Vehicle
+CusID_30672,Utility Vehicle
+CusID_30673,Luxury Sedan
+CusID_30674,Sports Utility Vehicle
+CusID_30675,Sports Utility Vehicle
+CusID_30676,Sports Sedan
+CusID_30677,Utility Vehicle
+CusID_30678,Utility Vehicle
+CusID_30679,Sports Utility Vehicle
+CusID_30680,Pickup-Truck
+CusID_30681,Convertible
+CusID_30682,Crossover
+CusID_30683,Sports Sedan
+CusID_30684,Sportscar
+CusID_30685,Sports Coupe
+CusID_30686,Crossover
+CusID_30687,Hatchback
+CusID_30688,Compact Utility Vehicle
+CusID_30689,Sports Coupe
+CusID_30690,Pickup-Truck
+CusID_30691,Utility Vehicle
+CusID_30692,Compact Utility Vehicle
+CusID_30693,Sports Utility Vehicle
+CusID_30694,Compact Sedan
+CusID_30695,Luxury Sedan
+CusID_30696,Hatchback
+CusID_30697,Sportscar
+CusID_30698,Utility Vehicle
+CusID_30699,Compact Utility Vehicle
+CusID_30700,Sedan
+CusID_30701,Luxury Sedan
+CusID_30702,Luxury Sedan
+CusID_30703,Hatchback
+CusID_30704,Crossover
+CusID_30705,Sports Sedan
+CusID_30706,Sedan
+CusID_30707,Luxury Sedan
+CusID_30708,Sports Coupe
+CusID_30709,Crossover
+CusID_30710,Crossover
+CusID_30711,Sports Sedan
+CusID_30712,Utility Vehicle
+CusID_30713,Compact Utility Vehicle
+CusID_30714,Luxury Coupe
+CusID_30715,Sportscar
+CusID_30716,Luxury Sedan
+CusID_30717,Hatchback
+CusID_30718,Compact Utility Vehicle
+CusID_30719,Luxury Coupe
+CusID_30720,Compact Utility Vehicle
+CusID_30721,Pickup-Truck
+CusID_30722,Hatchback
+CusID_30723,Convertible
+CusID_30724,Utility Vehicle
+CusID_30725,Sedan
+CusID_30726,Compact Sedan
+CusID_30727,Sportscar
+CusID_30728,Compact Utility Vehicle
+CusID_30729,Utility Vehicle
+CusID_30730,Luxury Sedan
+CusID_30731,Utility Vehicle
+CusID_30732,Crossover
+CusID_30733,Luxury Sedan
+CusID_30734,Sports Sedan
+CusID_30735,Hatchback
+CusID_30736,Pickup-Truck
+CusID_30737,Crossover
+CusID_30738,Crossover
+CusID_30739,Sedan
+CusID_30740,Utility Vehicle
+CusID_30741,Sports Utility Vehicle
+CusID_30742,Crossover
+CusID_30743,Compact Utility Vehicle
+CusID_30744,Luxury Sedan
+CusID_30745,Sports Utility Vehicle
+CusID_30746,Hatchback
+CusID_30747,Compact Utility Vehicle
+CusID_30748,Compact Sedan
+CusID_30749,Sports Coupe
+CusID_30750,Compact Sedan
+CusID_30751,Hatchback
+CusID_30752,Crossover
+CusID_30753,Sports Utility Vehicle
+CusID_30754,Luxury Sedan
+CusID_30755,Pickup-Truck
+CusID_30756,Sports Coupe
+CusID_30757,Sedan
+CusID_30758,Hatchback
+CusID_30759,Sedan
+CusID_30760,Hatchback
+CusID_30761,Sports Sedan
+CusID_30762,Pickup-Truck
+CusID_30763,Sports Sedan
+CusID_30764,Sedan
+CusID_30765,Crossover
+CusID_30766,Compact Utility Vehicle
+CusID_30767,Convertible
+CusID_30768,Utility Vehicle
+CusID_30769,Pickup-Truck
+CusID_30770,Luxury Sedan
+CusID_30771,Hatchback
+CusID_30772,Sedan
+CusID_30773,Luxury Sedan
+CusID_30774,Utility Vehicle
+CusID_30775,Sports Sedan
+CusID_30776,Sports Sedan
+CusID_30777,Compact Utility Vehicle
+CusID_30778,Sports Coupe
+CusID_30779,Pickup-Truck
+CusID_30780,Compact Utility Vehicle
+CusID_30781,Crossover
+CusID_30782,Luxury Sedan
+CusID_30783,Utility Vehicle
+CusID_30784,Compact Utility Vehicle
+CusID_30785,Hatchback
+CusID_30786,Minivan
+CusID_30787,Luxury Sedan
+CusID_30788,Crossover
+CusID_30789,Convertible
+CusID_30790,Luxury Sedan
+CusID_30791,Sports Utility Vehicle
+CusID_30792,Compact Utility Vehicle
+CusID_30793,Sports Sedan
+CusID_30794,Coupe
+CusID_30795,Luxury Coupe
+CusID_30796,Utility Vehicle
+CusID_30797,Minivan
+CusID_30798,Utility Vehicle
+CusID_30799,Sports Sedan
+CusID_30800,Compact Utility Vehicle
+CusID_30801,Sportscar
+CusID_30802,Utility Vehicle
+CusID_30803,Sports Utility Vehicle
+CusID_30804,Sports Utility Vehicle
+CusID_30805,Sedan
+CusID_30806,Pickup-Truck
+CusID_30807,Pickup-Truck
+CusID_30808,Compact Utility Vehicle
+CusID_30809,Station Wagon
+CusID_30810,Utility Vehicle
+CusID_30811,Utility Vehicle
+CusID_30812,Sportscar
+CusID_30813,Sportscar
+CusID_30814,Convertible
+CusID_30815,Hatchback
+CusID_30816,Sports Sedan
+CusID_30817,Sportscar
+CusID_30818,Sports Sedan
+CusID_30819,Luxury Sedan
+CusID_30820,Sports Utility Vehicle
+CusID_30821,Pickup-Truck
+CusID_30822,Pickup-Truck
+CusID_30823,Luxury Coupe
+CusID_30824,Sports Utility Vehicle
+CusID_30825,Luxury Sedan
+CusID_30826,Sedan
+CusID_30827,Coupe
+CusID_30828,Luxury Sedan
+CusID_30829,Compact Utility Vehicle
+CusID_30830,Sports Sedan
+CusID_30831,Crossover
+CusID_30832,Sedan
+CusID_30833,Crossover
+CusID_30834,Pickup-Truck
+CusID_30835,Sports Utility Vehicle
+CusID_30836,Sedan
+CusID_30837,Utility Vehicle
+CusID_30838,Utility Vehicle
+CusID_30839,Sports Utility Vehicle
+CusID_30840,Crossover
+CusID_30841,Compact Utility Vehicle
+CusID_30842,Hatchback
+CusID_30843,Sports Utility Vehicle
+CusID_30844,Sports Sedan
+CusID_30845,Sports Utility Vehicle
+CusID_30846,Compact Utility Vehicle
+CusID_30847,Utility Vehicle
+CusID_30848,Sportscar
+CusID_30849,Luxury Sedan
+CusID_30850,Sedan
+CusID_30851,Sedan
+CusID_30852,Luxury Sedan
+CusID_30853,Compact Utility Vehicle
+CusID_30854,Hatchback
+CusID_30855,Sports Utility Vehicle
+CusID_30856,Hatchback
+CusID_30857,Pickup-Truck
+CusID_30858,Sports Utility Vehicle
+CusID_30859,Sports Utility Vehicle
+CusID_30860,Luxury Coupe
+CusID_30861,Sports Utility Vehicle
+CusID_30862,Utility Vehicle
+CusID_30863,Utility Vehicle
+CusID_30864,Compact Utility Vehicle
+CusID_30865,Luxury Coupe
+CusID_30866,Compact Utility Vehicle
+CusID_30867,Sedan
+CusID_30868,Sports Sedan
+CusID_30869,Luxury Coupe
+CusID_30870,Utility Vehicle
+CusID_30871,Compact Utility Vehicle
+CusID_30872,Hatchback
+CusID_30873,Luxury Sedan
+CusID_30874,Sedan
+CusID_30875,Sedan
+CusID_30876,Luxury Sedan
+CusID_30877,Pickup-Truck
+CusID_30878,Sports Coupe
+CusID_30879,Sports Utility Vehicle
+CusID_30880,Sportscar
+CusID_30881,Coupe
+CusID_30882,Luxury Sedan
+CusID_30883,Sports Utility Vehicle
+CusID_30884,Compact Sedan
+CusID_30885,Sports Sedan
+CusID_30886,Compact Utility Vehicle
+CusID_30887,Luxury Sedan
+CusID_30888,Utility Vehicle
+CusID_30889,Compact Utility Vehicle
+CusID_30890,Luxury Sedan
+CusID_30891,Hatchback
+CusID_30892,Luxury Coupe
+CusID_30893,Compact Utility Vehicle
+CusID_30894,Sedan
+CusID_30895,Hatchback
+CusID_30896,Compact Sedan
+CusID_30897,Crossover
+CusID_30898,Luxury Sedan
+CusID_30899,Sports Sedan
+CusID_30900,Crossover
+CusID_30901,Compact Utility Vehicle
+CusID_30902,Compact Utility Vehicle
+CusID_30903,Sportscar
+CusID_30904,Luxury Coupe
+CusID_30905,Crossover
+CusID_30906,Compact Utility Vehicle
+CusID_30907,Luxury Coupe
+CusID_30908,Crossover
+CusID_30909,Sports Sedan
+CusID_30910,Compact Utility Vehicle
+CusID_30911,Compact Utility Vehicle
+CusID_30912,Utility Vehicle
+CusID_30913,Sports Coupe
+CusID_30914,Pickup-Truck
+CusID_30915,Sports Sedan
+CusID_30916,Luxury Sedan
+CusID_30917,Compact Utility Vehicle
+CusID_30918,Compact Sedan
+CusID_30919,Pickup-Truck
+CusID_30920,Luxury Sedan
+CusID_30921,Pickup-Truck
+CusID_30922,Crossover
+CusID_30923,Sportscar
+CusID_30924,Utility Vehicle
+CusID_30925,Sports Sedan
+CusID_30926,Sports Sedan
+CusID_30927,Luxury Sedan
+CusID_30928,Luxury Sedan
+CusID_30929,Pickup-Truck
+CusID_30930,Compact Utility Vehicle
+CusID_30931,Compact Sedan
+CusID_30932,Utility Vehicle
+CusID_30933,Luxury Sedan
+CusID_30934,Crossover
+CusID_30935,Sedan
+CusID_30936,Compact Sedan
+CusID_30937,Sports Utility Vehicle
+CusID_30938,Sports Sedan
+CusID_30939,Sedan
+CusID_30940,Luxury Sedan
+CusID_30941,Compact Utility Vehicle
+CusID_30942,Sedan
+CusID_30943,Sports Sedan
+CusID_30944,Luxury Sedan
+CusID_30945,Crossover
+CusID_30946,Luxury Sedan
+CusID_30947,Crossover
+CusID_30948,Compact Utility Vehicle
+CusID_30949,Hatchback
+CusID_30950,Compact Utility Vehicle
+CusID_30951,Hatchback
+CusID_30952,Sports Sedan
+CusID_30953,Luxury Sedan
+CusID_30954,Sedan
+CusID_30955,Luxury Sedan
+CusID_30956,Luxury Coupe
+CusID_30957,Utility Vehicle
+CusID_30958,Sports Utility Vehicle
+CusID_30959,Utility Vehicle
+CusID_30960,Crossover
+CusID_30961,Crossover
+CusID_30962,Utility Vehicle
+CusID_30963,Crossover
+CusID_30964,Sports Utility Vehicle
+CusID_30965,Luxury Sedan
+CusID_30966,Coupe
+CusID_30967,Luxury Sedan
+CusID_30968,Sports Utility Vehicle
+CusID_30969,Hatchback
+CusID_30970,Sports Utility Vehicle
+CusID_30971,Sports Coupe
+CusID_30972,Sports Sedan
+CusID_30973,Compact Sedan
+CusID_30974,Luxury Sedan
+CusID_30975,Sports Sedan
+CusID_30976,Sports Sedan
+CusID_30977,Sports Utility Vehicle
+CusID_30978,Luxury Sedan
+CusID_30979,Luxury Sedan
+CusID_30980,Luxury Sedan
+CusID_30981,Luxury Sedan
+CusID_30982,Pickup-Truck
+CusID_30983,Luxury Sedan
+CusID_30984,Sports Utility Vehicle
+CusID_30985,Crossover
+CusID_30986,Sports Coupe
+CusID_30987,Sports Sedan
+CusID_30988,Utility Vehicle
+CusID_30989,Station Wagon
+CusID_30990,Sedan
+CusID_30991,Compact Utility Vehicle
+CusID_30992,Sports Sedan
+CusID_30993,Crossover
+CusID_30994,Crossover
+CusID_30995,Luxury Coupe
+CusID_30996,Crossover
+CusID_30997,Compact Utility Vehicle
+CusID_30998,Sports Sedan
+CusID_30999,Utility Vehicle
+CusID_31000,Sports Coupe
+CusID_31001,Crossover
+CusID_31002,Sports Utility Vehicle
+CusID_31003,Utility Vehicle
+CusID_31004,Compact Utility Vehicle
+CusID_31005,Hatchback
+CusID_31006,Luxury Sedan
+CusID_31007,Luxury Coupe
+CusID_31008,Luxury Sedan
+CusID_31009,Luxury Coupe
+CusID_31010,Sports Utility Vehicle
+CusID_31011,Minivan
+CusID_31012,Hatchback
+CusID_31013,Hatchback
+CusID_31014,Pickup-Truck
+CusID_31015,Luxury Sedan
+CusID_31016,Sports Utility Vehicle
+CusID_31017,Crossover
+CusID_31018,Crossover
+CusID_31019,Sports Utility Vehicle
+CusID_31020,Sedan
+CusID_31021,Utility Vehicle
+CusID_31022,Hatchback
+CusID_31023,Sports Sedan
+CusID_31024,Luxury Sedan
+CusID_31025,Station Wagon
+CusID_31026,Utility Vehicle
+CusID_31027,Pickup-Truck
+CusID_31028,Luxury Sedan
+CusID_31029,Crossover
+CusID_31030,Convertible
+CusID_31031,Sports Sedan
+CusID_31032,Utility Vehicle
+CusID_31033,Sportscar
+CusID_31034,Pickup-Truck
+CusID_31035,Pickup-Truck
+CusID_31036,Sedan
+CusID_31037,Coupe
+CusID_31038,Compact Utility Vehicle
+CusID_31039,Sedan
+CusID_31040,Sedan
+CusID_31041,Sports Utility Vehicle
+CusID_31042,Luxury Sedan
+CusID_31043,Pickup-Truck
+CusID_31044,Minivan
+CusID_31045,Luxury Sedan
+CusID_31046,Pickup-Truck
+CusID_31047,Pickup-Truck
+CusID_31048,Sedan
+CusID_31049,Compact Sedan
+CusID_31050,Luxury Coupe
+CusID_31051,Luxury Sedan
+CusID_31052,Crossover
+CusID_31053,Hatchback
+CusID_31054,Compact Utility Vehicle
+CusID_31055,Compact Utility Vehicle
+CusID_31056,Hatchback
+CusID_31057,Sports Sedan
+CusID_31058,Sedan
+CusID_31059,Crossover
+CusID_31060,Crossover
+CusID_31061,Sports Sedan
+CusID_31062,Pickup-Truck
+CusID_31063,Crossover
+CusID_31064,Sports Sedan
+CusID_31065,Utility Vehicle
+CusID_31066,Crossover
+CusID_31067,Sedan
+CusID_31068,Crossover
+CusID_31069,Luxury Sedan
+CusID_31070,Utility Vehicle
+CusID_31071,Luxury Sedan
+CusID_31072,Sports Sedan
+CusID_31073,Sports Utility Vehicle
+CusID_31074,Convertible
+CusID_31075,Hatchback
+CusID_31076,Crossover
+CusID_31077,Luxury Sedan
+CusID_31078,Pickup-Truck
+CusID_31079,Crossover
+CusID_31080,Crossover
+CusID_31081,Luxury Sedan
+CusID_31082,Sports Sedan
+CusID_31083,Sports Utility Vehicle
+CusID_31084,Sportscar
+CusID_31085,Luxury Sedan
+CusID_31086,Compact Utility Vehicle
+CusID_31087,Sports Sedan
+CusID_31088,Sports Coupe
+CusID_31089,Hatchback
+CusID_31090,Utility Vehicle
+CusID_31091,Sports Sedan
+CusID_31092,Compact Utility Vehicle
+CusID_31093,Hatchback
+CusID_31094,Compact Utility Vehicle
+CusID_31095,Luxury Sedan
+CusID_31096,Compact Sedan
+CusID_31097,Crossover
+CusID_31098,Sports Sedan
+CusID_31099,Sports Utility Vehicle
+CusID_31100,Luxury Sedan
+CusID_31101,Sports Sedan
+CusID_31102,Hatchback
+CusID_31103,Luxury Coupe
+CusID_31104,Minivan
+CusID_31105,Sports Coupe
+CusID_31106,Coupe
+CusID_31107,Luxury Sedan
+CusID_31108,Luxury Sedan
+CusID_31109,Pickup-Truck
+CusID_31110,Compact Sedan
+CusID_31111,Utility Vehicle
+CusID_31112,Luxury Sedan
+CusID_31113,Luxury Sedan
+CusID_31114,Sports Utility Vehicle
+CusID_31115,Utility Vehicle
+CusID_31116,Hatchback
+CusID_31117,Luxury Sedan
+CusID_31118,Crossover
+CusID_31119,Crossover
+CusID_31120,Utility Vehicle
+CusID_31121,Sports Utility Vehicle
+CusID_31122,Luxury Sedan
+CusID_31123,Convertible
+CusID_31124,Utility Vehicle
+CusID_31125,Luxury Sedan
+CusID_31126,Compact Utility Vehicle
+CusID_31127,Crossover
+CusID_31128,Sports Sedan
+CusID_31129,Compact Utility Vehicle
+CusID_31130,Hatchback
+CusID_31131,Luxury Sedan
+CusID_31132,Luxury Sedan
+CusID_31133,Crossover
+CusID_31134,Pickup-Truck
+CusID_31135,Sports Sedan
+CusID_31136,Hatchback
+CusID_31137,Sportscar
+CusID_31138,Convertible
+CusID_31139,Sedan
+CusID_31140,Sportscar
+CusID_31141,Compact Sedan
+CusID_31142,Compact Utility Vehicle
+CusID_31143,Compact Utility Vehicle
+CusID_31144,Utility Vehicle
+CusID_31145,Convertible
+CusID_31146,Sports Utility Vehicle
+CusID_31147,Hatchback
+CusID_31148,Compact Sedan
+CusID_31149,Luxury Sedan
+CusID_31150,Sedan
+CusID_31151,Sportscar
+CusID_31152,Utility Vehicle
+CusID_31153,Sports Sedan
+CusID_31154,Hatchback
+CusID_31155,Utility Vehicle
+CusID_31156,Compact Utility Vehicle
+CusID_31157,Sports Sedan
+CusID_31158,Sports Coupe
+CusID_31159,Luxury Sedan
+CusID_31160,Station Wagon
+CusID_31161,Station Wagon
+CusID_31162,Sedan
+CusID_31163,Luxury Sedan
+CusID_31164,Luxury Coupe
+CusID_31165,Sedan
+CusID_31166,Crossover
+CusID_31167,Compact Utility Vehicle
+CusID_31168,Hatchback
+CusID_31169,Hatchback
+CusID_31170,Hatchback
+CusID_31171,Crossover
+CusID_31172,Sports Sedan
+CusID_31173,Sports Sedan
+CusID_31174,Compact Utility Vehicle
+CusID_31175,Convertible
+CusID_31176,Sports Utility Vehicle
+CusID_31177,Luxury Sedan
+CusID_31178,Convertible
+CusID_31179,Luxury Sedan
+CusID_31180,Sedan
+CusID_31181,Luxury Sedan
+CusID_31182,Sedan
+CusID_31183,Hatchback
+CusID_31184,Compact Sedan
+CusID_31185,Luxury Sedan
+CusID_31186,Hatchback
+CusID_31187,Compact Utility Vehicle
+CusID_31188,Sports Sedan
+CusID_31189,Crossover
+CusID_31190,Sports Utility Vehicle
+CusID_31191,Crossover
+CusID_31192,Utility Vehicle
+CusID_31193,Compact Utility Vehicle
+CusID_31194,Crossover
+CusID_31195,Hatchback
+CusID_31196,Crossover
+CusID_31197,Sports Sedan
+CusID_31198,Sports Sedan
+CusID_31199,Utility Vehicle
+CusID_31200,Luxury Sedan
+CusID_31201,Utility Vehicle
+CusID_31202,Compact Utility Vehicle
+CusID_31203,Compact Sedan
+CusID_31204,Hatchback
+CusID_31205,Compact Utility Vehicle
+CusID_31206,Pickup-Truck
+CusID_31207,Sports Sedan
+CusID_31208,Minivan
+CusID_31209,Sports Sedan
+CusID_31210,Compact Utility Vehicle
+CusID_31211,Compact Sedan
+CusID_31212,Utility Vehicle
+CusID_31213,Luxury Sedan
+CusID_31214,Luxury Sedan
+CusID_31215,Convertible
+CusID_31216,Luxury Sedan
+CusID_31217,Luxury Sedan
+CusID_31218,Compact Sedan
+CusID_31219,Pickup-Truck
+CusID_31220,Sedan
+CusID_31221,Luxury Sedan
+CusID_31222,Crossover
+CusID_31223,Sportscar
+CusID_31224,Luxury Sedan
+CusID_31225,Compact Utility Vehicle
+CusID_31226,Luxury Coupe
+CusID_31227,Utility Vehicle
+CusID_31228,Sports Utility Vehicle
+CusID_31229,Sports Sedan
+CusID_31230,Sports Utility Vehicle
+CusID_31231,Luxury Sedan
+CusID_31232,Utility Vehicle
+CusID_31233,Crossover
+CusID_31234,Crossover
+CusID_31235,Hatchback
+CusID_31236,Crossover
+CusID_31237,Sports Sedan
+CusID_31238,Pickup-Truck
+CusID_31239,Utility Vehicle
+CusID_31240,Sports Sedan
+CusID_31241,Sportscar
+CusID_31242,Hatchback
+CusID_31243,Luxury Sedan
+CusID_31244,Crossover
+CusID_31245,Luxury Sedan
+CusID_31246,Luxury Sedan
+CusID_31247,Crossover
+CusID_31248,Utility Vehicle
+CusID_31249,Sports Sedan
+CusID_31250,Luxury Coupe
+CusID_31251,Minivan
+CusID_31252,Pickup-Truck
+CusID_31253,Sportscar
+CusID_31254,Compact Utility Vehicle
+CusID_31255,Utility Vehicle
+CusID_31256,Sports Sedan
+CusID_31257,Sportscar
+CusID_31258,Luxury Sedan
+CusID_31259,Sports Utility Vehicle
+CusID_31260,Sports Utility Vehicle
+CusID_31261,Sports Sedan
+CusID_31262,Compact Sedan
+CusID_31263,Crossover
+CusID_31264,Compact Utility Vehicle
+CusID_31265,Utility Vehicle
+CusID_31266,Sports Utility Vehicle
+CusID_31267,Pickup-Truck
+CusID_31268,Sports Utility Vehicle
+CusID_31269,Luxury Coupe
+CusID_31270,Compact Sedan
+CusID_31271,Compact Utility Vehicle
+CusID_31272,Sedan
+CusID_31273,Hatchback
+CusID_31274,Utility Vehicle
+CusID_31275,Sports Utility Vehicle
+CusID_31276,Luxury Coupe
+CusID_31277,Compact Utility Vehicle
+CusID_31278,Sedan
+CusID_31279,Sedan
+CusID_31280,Crossover
+CusID_31281,Hatchback
+CusID_31282,Luxury Sedan
+CusID_31283,Sports Utility Vehicle
+CusID_31284,Hatchback
+CusID_31285,Sedan
+CusID_31286,Crossover
+CusID_31287,Compact Sedan
+CusID_31288,Sports Coupe
+CusID_31289,Sports Sedan
+CusID_31290,Luxury Sedan
+CusID_31291,Sports Utility Vehicle
+CusID_31292,Hatchback
+CusID_31293,Luxury Coupe
+CusID_31294,Sedan
+CusID_31295,Pickup-Truck
+CusID_31296,Compact Sedan
+CusID_31297,Sports Sedan
+CusID_31298,Compact Utility Vehicle
+CusID_31299,Pickup-Truck
+CusID_31300,Utility Vehicle
+CusID_31301,Sedan
+CusID_31302,Compact Utility Vehicle
+CusID_31303,Luxury Sedan
+CusID_31304,Pickup-Truck
+CusID_31305,Crossover
+CusID_31306,Luxury Sedan
+CusID_31307,Luxury Sedan
+CusID_31308,Hatchback
+CusID_31309,Sports Sedan
+CusID_31310,Utility Vehicle
+CusID_31311,Utility Vehicle
+CusID_31312,Utility Vehicle
+CusID_31313,Compact Sedan
+CusID_31314,Sedan
+CusID_31315,Sports Sedan
+CusID_31316,Compact Utility Vehicle
+CusID_31317,Pickup-Truck
+CusID_31318,Sports Utility Vehicle
+CusID_31319,Sports Utility Vehicle
+CusID_31320,Sportscar
+CusID_31321,Luxury Sedan
+CusID_31322,Crossover
+CusID_31323,Sedan
+CusID_31324,Luxury Sedan
+CusID_31325,Crossover
+CusID_31326,Crossover
+CusID_31327,Coupe
+CusID_31328,Hatchback
+CusID_31329,Compact Utility Vehicle
+CusID_31330,Sports Utility Vehicle
+CusID_31331,Luxury Sedan
+CusID_31332,Utility Vehicle
+CusID_31333,Pickup-Truck
+CusID_31334,Hatchback
+CusID_31335,Compact Utility Vehicle
+CusID_31336,Compact Sedan
+CusID_31337,Sports Sedan
+CusID_31338,Luxury Coupe
+CusID_31339,Utility Vehicle
+CusID_31340,Station Wagon
+CusID_31341,Crossover
+CusID_31342,Utility Vehicle
+CusID_31343,Sedan
+CusID_31344,Hatchback
+CusID_31345,Sedan
+CusID_31346,Utility Vehicle
+CusID_31347,Sports Sedan
+CusID_31348,Compact Sedan
+CusID_31349,Luxury Sedan
+CusID_31350,Hatchback
+CusID_31351,Pickup-Truck
+CusID_31352,Sports Utility Vehicle
+CusID_31353,Crossover
+CusID_31354,Pickup-Truck
+CusID_31355,Compact Sedan
+CusID_31356,Sports Sedan
+CusID_31357,Sports Utility Vehicle
+CusID_31358,Hatchback
+CusID_31359,Convertible
+CusID_31360,Compact Sedan
+CusID_31361,Convertible
+CusID_31362,Utility Vehicle
+CusID_31363,Utility Vehicle
+CusID_31364,Hatchback
+CusID_31365,Hatchback
+CusID_31366,Sportscar
+CusID_31367,Sports Sedan
+CusID_31368,Hatchback
+CusID_31369,Sports Utility Vehicle
+CusID_31370,Sports Sedan
+CusID_31371,Luxury Sedan
+CusID_31372,Luxury Coupe
+CusID_31373,Sedan
+CusID_31374,Convertible
+CusID_31375,Sedan
+CusID_31376,Hatchback
+CusID_31377,Convertible
+CusID_31378,Compact Utility Vehicle
+CusID_31379,Pickup-Truck
+CusID_31380,Pickup-Truck
+CusID_31381,Pickup-Truck
+CusID_31382,Crossover
+CusID_31383,Sedan
+CusID_31384,Crossover
+CusID_31385,Minivan
+CusID_31386,Sports Sedan
+CusID_31387,Compact Utility Vehicle
+CusID_31388,Sports Utility Vehicle
+CusID_31389,Sportscar
+CusID_31390,Crossover
+CusID_31391,Sports Utility Vehicle
+CusID_31392,Sedan
+CusID_31393,Hatchback
+CusID_31394,Utility Vehicle
+CusID_31395,Sports Coupe
+CusID_31396,Crossover
+CusID_31397,Coupe
+CusID_31398,Compact Sedan
+CusID_31399,Sedan
+CusID_31400,Convertible
+CusID_31401,Compact Utility Vehicle
+CusID_31402,Sports Coupe
+CusID_31403,Minivan
+CusID_31404,Sports Utility Vehicle
+CusID_31405,Hatchback
+CusID_31406,Sports Utility Vehicle
+CusID_31407,Luxury Sedan
+CusID_31408,Sports Sedan
+CusID_31409,Sports Sedan
+CusID_31410,Compact Utility Vehicle
+CusID_31411,Compact Utility Vehicle
+CusID_31412,Sedan
+CusID_31413,Luxury Sedan
+CusID_31414,Sedan
+CusID_31415,Compact Utility Vehicle
+CusID_31416,Crossover
+CusID_31417,Sedan
+CusID_31418,Compact Utility Vehicle
+CusID_31419,Compact Utility Vehicle
+CusID_31420,Crossover
+CusID_31421,Sports Coupe
+CusID_31422,Crossover
+CusID_31423,Minivan
+CusID_31424,Hatchback
+CusID_31425,Sedan
+CusID_31426,Crossover
+CusID_31427,Sedan
+CusID_31428,Compact Utility Vehicle
+CusID_31429,Utility Vehicle
+CusID_31430,Sports Utility Vehicle
+CusID_31431,Compact Utility Vehicle
+CusID_31432,Utility Vehicle
+CusID_31433,Station Wagon
+CusID_31434,Sports Utility Vehicle
+CusID_31435,Sportscar
+CusID_31436,Crossover
+CusID_31437,Sports Utility Vehicle
+CusID_31438,Hatchback
+CusID_31439,Compact Utility Vehicle
+CusID_31440,Utility Vehicle
+CusID_31441,Sports Utility Vehicle
+CusID_31442,Sedan
+CusID_31443,Utility Vehicle
+CusID_31444,Sports Utility Vehicle
+CusID_31445,Luxury Coupe
+CusID_31446,Luxury Sedan
+CusID_31447,Sports Utility Vehicle
+CusID_31448,Sports Utility Vehicle
+CusID_31449,Sportscar
+CusID_31450,Hatchback
+CusID_31451,Luxury Sedan
+CusID_31452,Sports Utility Vehicle
+CusID_31453,Luxury Coupe
+CusID_31454,Compact Utility Vehicle
+CusID_31455,Hatchback
+CusID_31456,Crossover
+CusID_31457,Pickup-Truck
+CusID_31458,Convertible
+CusID_31459,Luxury Sedan
+CusID_31460,Crossover
+CusID_31461,Pickup-Truck
+CusID_31462,Sedan
+CusID_31463,Luxury Sedan
+CusID_31464,Sedan
+CusID_31465,Luxury Sedan
+CusID_31466,Hatchback
+CusID_31467,Sports Sedan
+CusID_31468,Compact Sedan
+CusID_31469,Hatchback
+CusID_31470,Crossover
+CusID_31471,Sportscar
+CusID_31472,Pickup-Truck
+CusID_31473,Pickup-Truck
+CusID_31474,Crossover
+CusID_31475,Utility Vehicle
+CusID_31476,Sedan
+CusID_31477,Hatchback
+CusID_31478,Minivan
+CusID_31479,Compact Sedan
+CusID_31480,Hatchback
+CusID_31481,Sports Sedan
+CusID_31482,Sports Sedan
+CusID_31483,Sports Sedan
+CusID_31484,Luxury Sedan
+CusID_31485,Convertible
+CusID_31486,Convertible
+CusID_31487,Sports Coupe
+CusID_31488,Utility Vehicle
+CusID_31489,Convertible
+CusID_31490,Compact Sedan
+CusID_31491,Crossover
+CusID_31492,Compact Utility Vehicle
+CusID_31493,Compact Sedan
+CusID_31494,Luxury Sedan
+CusID_31495,Compact Utility Vehicle
+CusID_31496,Sports Utility Vehicle
+CusID_31497,Utility Vehicle
+CusID_31498,Hatchback
+CusID_31499,Coupe
+CusID_31500,Utility Vehicle
+CusID_31501,Utility Vehicle
+CusID_31502,Utility Vehicle
+CusID_31503,Luxury Sedan
+CusID_31504,Utility Vehicle
+CusID_31505,Crossover
+CusID_31506,Luxury Sedan
+CusID_31507,Hatchback
+CusID_31508,Sedan
+CusID_31509,Utility Vehicle
+CusID_31510,Utility Vehicle
+CusID_31511,Compact Utility Vehicle
+CusID_31512,Crossover
+CusID_31513,Sports Sedan
+CusID_31514,Sports Sedan
+CusID_31515,Pickup-Truck
+CusID_31516,Sedan
+CusID_31517,Convertible
+CusID_31518,Sedan
+CusID_31519,Luxury Coupe
+CusID_31520,Sports Coupe
+CusID_31521,Luxury Sedan
+CusID_31522,Sports Utility Vehicle
+CusID_31523,Utility Vehicle
+CusID_31524,Convertible
+CusID_31525,Utility Vehicle
+CusID_31526,Sports Sedan
+CusID_31527,Compact Utility Vehicle
+CusID_31528,Hatchback
+CusID_31529,Sports Utility Vehicle
+CusID_31530,Luxury Coupe
+CusID_31531,Sports Sedan
+CusID_31532,Luxury Sedan
+CusID_31533,Compact Sedan
+CusID_31534,Luxury Coupe
+CusID_31535,Minivan
+CusID_31536,Utility Vehicle
+CusID_31537,Compact Utility Vehicle
+CusID_31538,Convertible
+CusID_31539,Compact Utility Vehicle
+CusID_31540,Crossover
+CusID_31541,Sports Sedan
+CusID_31542,Coupe
+CusID_31543,Luxury Sedan
+CusID_31544,Sports Utility Vehicle
+CusID_31545,Compact Utility Vehicle
+CusID_31546,Coupe
+CusID_31547,Crossover
+CusID_31548,Sports Sedan
+CusID_31549,Hatchback
+CusID_31550,Compact Sedan
+CusID_31551,Crossover
+CusID_31552,Compact Sedan
+CusID_31553,Compact Utility Vehicle
+CusID_31554,Sports Utility Vehicle
+CusID_31555,Sedan
+CusID_31556,Compact Sedan
+CusID_31557,Luxury Sedan
+CusID_31558,Crossover
+CusID_31559,Utility Vehicle
+CusID_31560,Sports Utility Vehicle
+CusID_31561,Luxury Sedan
+CusID_31562,Sedan
+CusID_31563,Sedan
+CusID_31564,Compact Utility Vehicle
+CusID_31565,Pickup-Truck
+CusID_31566,Utility Vehicle
+CusID_31567,Hatchback
+CusID_31568,Crossover
+CusID_31569,Crossover
+CusID_31570,Utility Vehicle
+CusID_31571,Compact Sedan
+CusID_31572,Luxury Sedan
+CusID_31573,Compact Sedan
+CusID_31574,Minivan
+CusID_31575,Sports Utility Vehicle
+CusID_31576,Utility Vehicle
+CusID_31577,Sedan
+CusID_31578,Sports Sedan
+CusID_31579,Sports Sedan
+CusID_31580,Minivan
+CusID_31581,Luxury Sedan
+CusID_31582,Sedan
+CusID_31583,Sedan
+CusID_31584,Coupe
+CusID_31585,Sports Utility Vehicle
+CusID_31586,Luxury Sedan
+CusID_31587,Pickup-Truck
+CusID_31588,Hatchback
+CusID_31589,Pickup-Truck
+CusID_31590,Compact Utility Vehicle
+CusID_31591,Hatchback
+CusID_31592,Sedan
+CusID_31593,Crossover
+CusID_31594,Luxury Coupe
+CusID_31595,Luxury Coupe
+CusID_31596,Sports Coupe
+CusID_31597,Crossover
+CusID_31598,Sports Utility Vehicle
+CusID_31599,Sports Utility Vehicle
+CusID_31600,Sports Sedan
+CusID_31601,Sports Sedan
+CusID_31602,Sedan
+CusID_31603,Luxury Sedan
+CusID_31604,Sports Coupe
+CusID_31605,Sports Sedan
+CusID_31606,Compact Utility Vehicle
+CusID_31607,Crossover
+CusID_31608,Sportscar
+CusID_31609,Sports Sedan
+CusID_31610,Compact Utility Vehicle
+CusID_31611,Utility Vehicle
+CusID_31612,Sports Coupe
+CusID_31613,Luxury Sedan
+CusID_31614,Luxury Sedan
+CusID_31615,Sedan
+CusID_31616,Luxury Sedan
+CusID_31617,Coupe
+CusID_31618,Sportscar
+CusID_31619,Compact Sedan
+CusID_31620,Utility Vehicle
+CusID_31621,Sports Utility Vehicle
+CusID_31622,Luxury Sedan
+CusID_31623,Sports Utility Vehicle
+CusID_31624,Compact Sedan
+CusID_31625,Sportscar
+CusID_31626,Compact Utility Vehicle
+CusID_31627,Luxury Sedan
+CusID_31628,Sports Sedan
+CusID_31629,Utility Vehicle
+CusID_31630,Sportscar
+CusID_31631,Compact Utility Vehicle
+CusID_31632,Crossover
+CusID_31633,Compact Utility Vehicle
+CusID_31634,Utility Vehicle
+CusID_31635,Sports Sedan
+CusID_31636,Utility Vehicle
+CusID_31637,Coupe
+CusID_31638,Compact Sedan
+CusID_31639,Sports Utility Vehicle
+CusID_31640,Sports Utility Vehicle
+CusID_31641,Pickup-Truck
+CusID_31642,Sports Sedan
+CusID_31643,Luxury Sedan
+CusID_31644,Hatchback
+CusID_31645,Sports Utility Vehicle
+CusID_31646,Hatchback
+CusID_31647,Sports Sedan
+CusID_31648,Luxury Sedan
+CusID_31649,Sports Sedan
+CusID_31650,Compact Utility Vehicle
+CusID_31651,Sports Sedan
+CusID_31652,Compact Utility Vehicle
+CusID_31653,Sports Utility Vehicle
+CusID_31654,Hatchback
+CusID_31655,Hatchback
+CusID_31656,Hatchback
+CusID_31657,Sedan
+CusID_31658,Station Wagon
+CusID_31659,Luxury Sedan
+CusID_31660,Sports Coupe
+CusID_31661,Crossover
+CusID_31662,Sports Utility Vehicle
+CusID_31663,Hatchback
+CusID_31664,Luxury Sedan
+CusID_31665,Compact Sedan
+CusID_31666,Sports Sedan
+CusID_31667,Crossover
+CusID_31668,Compact Sedan
+CusID_31669,Convertible
+CusID_31670,Sports Utility Vehicle
+CusID_31671,Utility Vehicle
+CusID_31672,Compact Utility Vehicle
+CusID_31673,Luxury Sedan
+CusID_31674,Pickup-Truck
+CusID_31675,Sports Sedan
+CusID_31676,Convertible
+CusID_31677,Compact Sedan
+CusID_31678,Hatchback
+CusID_31679,Pickup-Truck
+CusID_31680,Compact Utility Vehicle
+CusID_31681,Hatchback
+CusID_31682,Utility Vehicle
+CusID_31683,Pickup-Truck
+CusID_31684,Compact Utility Vehicle
+CusID_31685,Luxury Coupe
+CusID_31686,Crossover
+CusID_31687,Compact Sedan
+CusID_31688,Hatchback
+CusID_31689,Compact Utility Vehicle
+CusID_31690,Luxury Sedan
+CusID_31691,Compact Utility Vehicle
+CusID_31692,Compact Utility Vehicle
+CusID_31693,Hatchback
+CusID_31694,Luxury Sedan
+CusID_31695,Sports Utility Vehicle
+CusID_31696,Sedan
+CusID_31697,Hatchback
+CusID_31698,Luxury Sedan
+CusID_31699,Sedan
+CusID_31700,Utility Vehicle
+CusID_31701,Compact Utility Vehicle
+CusID_31702,Luxury Sedan
+CusID_31703,Compact Sedan
+CusID_31704,Hatchback
+CusID_31705,Sports Utility Vehicle
+CusID_31706,Compact Utility Vehicle
+CusID_31707,Convertible
+CusID_31708,Luxury Sedan
+CusID_31709,Sports Utility Vehicle
+CusID_31710,Crossover
+CusID_31711,Compact Sedan
+CusID_31712,Sports Utility Vehicle
+CusID_31713,Crossover
+CusID_31714,Sportscar
+CusID_31715,Crossover
+CusID_31716,Compact Sedan
+CusID_31717,Compact Sedan
+CusID_31718,Minivan
+CusID_31719,Utility Vehicle
+CusID_31720,Sportscar
+CusID_31721,Sports Utility Vehicle
+CusID_31722,Sports Utility Vehicle
+CusID_31723,Utility Vehicle
+CusID_31724,Sports Coupe
+CusID_31725,Hatchback
+CusID_31726,Hatchback
+CusID_31727,Sedan
+CusID_31728,Luxury Sedan
+CusID_31729,Luxury Sedan
+CusID_31730,Luxury Coupe
+CusID_31731,Compact Utility Vehicle
+CusID_31732,Hatchback
+CusID_31733,Compact Sedan
+CusID_31734,Crossover
+CusID_31735,Hatchback
+CusID_31736,Hatchback
+CusID_31737,Utility Vehicle
+CusID_31738,Sports Utility Vehicle
+CusID_31739,Compact Sedan
+CusID_31740,Sedan
+CusID_31741,Luxury Sedan
+CusID_31742,Compact Sedan
+CusID_31743,Sedan
+CusID_31744,Coupe
+CusID_31745,Pickup-Truck
+CusID_31746,Luxury Sedan
+CusID_31747,Utility Vehicle
+CusID_31748,Convertible
+CusID_31749,Sportscar
+CusID_31750,Luxury Sedan
+CusID_31751,Sports Utility Vehicle
+CusID_31752,Sports Sedan
+CusID_31753,Luxury Sedan
+CusID_31754,Compact Sedan
+CusID_31755,Utility Vehicle
+CusID_31756,Sports Utility Vehicle
+CusID_31757,Sports Utility Vehicle
+CusID_31758,Convertible
+CusID_31759,Crossover
+CusID_31760,Sports Sedan
+CusID_31761,Hatchback
+CusID_31762,Convertible
+CusID_31763,Sportscar
+CusID_31764,Sedan
+CusID_31765,Luxury Sedan
+CusID_31766,Luxury Sedan
+CusID_31767,Utility Vehicle
+CusID_31768,Compact Utility Vehicle
+CusID_31769,Compact Utility Vehicle
+CusID_31770,Utility Vehicle
+CusID_31771,Crossover
+CusID_31772,Luxury Sedan
+CusID_31773,Compact Utility Vehicle
+CusID_31774,Compact Utility Vehicle
+CusID_31775,Sports Utility Vehicle
+CusID_31776,Sedan
+CusID_31777,Sedan
+CusID_31778,Utility Vehicle
+CusID_31779,Sportscar
+CusID_31780,Sportscar
+CusID_31781,Crossover
+CusID_31782,Compact Utility Vehicle
+CusID_31783,Compact Utility Vehicle
+CusID_31784,Compact Utility Vehicle
+CusID_31785,Utility Vehicle
+CusID_31786,Sedan
+CusID_31787,Utility Vehicle
+CusID_31788,Sports Sedan
+CusID_31789,Crossover
+CusID_31790,Sports Sedan
+CusID_31791,Utility Vehicle
+CusID_31792,Luxury Sedan
+CusID_31793,Luxury Sedan
+CusID_31794,Sports Sedan
+CusID_31795,Hatchback
+CusID_31796,Sports Sedan
+CusID_31797,Luxury Sedan
+CusID_31798,Utility Vehicle
+CusID_31799,Convertible
+CusID_31800,Utility Vehicle
+CusID_31801,Sports Sedan
+CusID_31802,Sports Coupe
+CusID_31803,Luxury Sedan
+CusID_31804,Compact Sedan
+CusID_31805,Luxury Sedan
+CusID_31806,Sedan
+CusID_31807,Sports Utility Vehicle
+CusID_31808,Utility Vehicle
+CusID_31809,Station Wagon
+CusID_31810,Luxury Sedan
+CusID_31811,Crossover
+CusID_31812,Luxury Sedan
+CusID_31813,Sports Utility Vehicle
+CusID_31814,Crossover
+CusID_31815,Sportscar
+CusID_31816,Compact Sedan
+CusID_31817,Minivan
+CusID_31818,Sedan
+CusID_31819,Utility Vehicle
+CusID_31820,Sports Sedan
+CusID_31821,Sports Utility Vehicle
+CusID_31822,Luxury Sedan
+CusID_31823,Crossover
+CusID_31824,Compact Sedan
+CusID_31825,Compact Sedan
+CusID_31826,Hatchback
+CusID_31827,Sports Utility Vehicle
+CusID_31828,Luxury Sedan
+CusID_31829,Luxury Coupe
+CusID_31830,Sports Utility Vehicle
+CusID_31831,Compact Utility Vehicle
+CusID_31832,Hatchback
+CusID_31833,Hatchback
+CusID_31834,Utility Vehicle
+CusID_31835,Hatchback
+CusID_31836,Convertible
+CusID_31837,Sports Utility Vehicle
+CusID_31838,Sedan
+CusID_31839,Luxury Coupe
+CusID_31840,Convertible
+CusID_31841,Hatchback
+CusID_31842,Crossover
+CusID_31843,Sports Utility Vehicle
+CusID_31844,Utility Vehicle
+CusID_31845,Sports Sedan
+CusID_31846,Compact Sedan
+CusID_31847,Compact Utility Vehicle
+CusID_31848,Luxury Sedan
+CusID_31849,Luxury Sedan
+CusID_31850,Sports Sedan
+CusID_31851,Sports Utility Vehicle
+CusID_31852,Crossover
+CusID_31853,Crossover
+CusID_31854,Utility Vehicle
+CusID_31855,Crossover
+CusID_31856,Sports Sedan
+CusID_31857,Sports Utility Vehicle
+CusID_31858,Crossover
+CusID_31859,Pickup-Truck
+CusID_31860,Utility Vehicle
+CusID_31861,Compact Utility Vehicle
+CusID_31862,Compact Utility Vehicle
+CusID_31863,Sports Sedan
+CusID_31864,Sportscar
+CusID_31865,Utility Vehicle
+CusID_31866,Compact Sedan
+CusID_31867,Sports Utility Vehicle
+CusID_31868,Sports Utility Vehicle
+CusID_31869,Sedan
+CusID_31870,Sports Sedan
+CusID_31871,Hatchback
+CusID_31872,Luxury Coupe
+CusID_31873,Utility Vehicle
+CusID_31874,Compact Utility Vehicle
+CusID_31875,Sports Utility Vehicle
+CusID_31876,Sports Sedan
+CusID_31877,Compact Utility Vehicle
+CusID_31878,Hatchback
+CusID_31879,Sedan
+CusID_31880,Coupe
+CusID_31881,Compact Utility Vehicle
+CusID_31882,Sports Coupe
+CusID_31883,Luxury Sedan
+CusID_31884,Crossover
+CusID_31885,Compact Utility Vehicle
+CusID_31886,Crossover
+CusID_31887,Sedan
+CusID_31888,Coupe
+CusID_31889,Luxury Coupe
+CusID_31890,Utility vehicle
+CusID_31891,Luxury Sedan
+CusID_31892,Sports Utility Vehicle
+CusID_31893,Luxury Sedan
+CusID_31894,Sports Coupe
+CusID_31895,Sedan
+CusID_31896,Luxury Sedan
+CusID_31897,Compact Utility Vehicle
+CusID_31898,Compact Sedan
+CusID_31899,Compact Utility Vehicle
+CusID_31900,Utility Vehicle
+CusID_31901,Sports Utility Vehicle
+CusID_31902,Sports Utility Vehicle
+CusID_31903,Luxury Sedan
+CusID_31904,Luxury Coupe
+CusID_31905,Utility Vehicle
+CusID_31906,Sports Utility Vehicle
+CusID_31907,Sports Sedan
+CusID_31908,Luxury Sedan
+CusID_31909,Sports Sedan
+CusID_31910,Crossover
+CusID_31911,Luxury Sedan
+CusID_31912,Sports Sedan
+CusID_31913,Pickup-Truck
+CusID_31914,Crossover
+CusID_31915,Luxury Sedan
+CusID_31916,Compact Utility Vehicle
+CusID_31917,Sports Sedan
+CusID_31918,Compact Utility Vehicle
+CusID_31919,Sedan
+CusID_31920,Sedan
+CusID_31921,Sports Utility Vehicle
+CusID_31922,Luxury Sedan
+CusID_31923,Sports Utility Vehicle
+CusID_31924,Convertible
+CusID_31925,Sports Utility Vehicle
+CusID_31926,Utility Vehicle
+CusID_31927,Sports Utility Vehicle
+CusID_31928,Sports Sedan
+CusID_31929,Hatchback
+CusID_31930,Pickup-Truck
+CusID_31931,Sports Utility Vehicle
+CusID_31932,Sports Sedan
+CusID_31933,Crossover
+CusID_31934,Utility Vehicle
+CusID_31935,Luxury Sedan
+CusID_31936,Luxury Coupe
+CusID_31937,Compact Utility Vehicle
+CusID_31938,Crossover
+CusID_31939,Luxury Sedan
+CusID_31940,Minivan
+CusID_31941,Hatchback
+CusID_31942,Luxury Sedan
+CusID_31943,Luxury Sedan
+CusID_31944,Sports Utility Vehicle
+CusID_31945,Luxury Sedan
+CusID_31946,Luxury Sedan
+CusID_31947,Luxury Sedan
+CusID_31948,Convertible
+CusID_31949,Utility Vehicle
+CusID_31950,Luxury Sedan
+CusID_31951,Sedan
+CusID_31952,Crossover
+CusID_31953,Compact Sedan
+CusID_31954,Sedan
+CusID_31955,Crossover
+CusID_31956,Compact Sedan
+CusID_31957,Compact Utility Vehicle
+CusID_31958,Luxury Sedan
+CusID_31959,Sports Utility Vehicle
+CusID_31960,Hatchback
+CusID_31961,Sports Sedan
+CusID_31962,Pickup-Truck
+CusID_31963,Sports Utility Vehicle
+CusID_31964,Sports Sedan
+CusID_31965,Compact Utility Vehicle
+CusID_31966,Crossover
+CusID_31967,Compact Utility Vehicle
+CusID_31968,Crossover
+CusID_31969,Crossover
+CusID_31970,Compact Utility Vehicle
+CusID_31971,Luxury Sedan
+CusID_31972,Luxury Sedan
+CusID_31973,Coupe
+CusID_31974,Sports Sedan
+CusID_31975,Convertible
+CusID_31976,Crossover
+CusID_31977,Hatchback
+CusID_31978,Sports Utility Vehicle
+CusID_31979,Luxury Sedan
+CusID_31980,Utility Vehicle
+CusID_31981,Luxury Coupe
+CusID_31982,Pickup-Truck
+CusID_31983,Pickup-Truck
+CusID_31984,Luxury Sedan
+CusID_31985,Compact Utility Vehicle
+CusID_31986,Compact Utility Vehicle
+CusID_31987,Luxury Sedan
+CusID_31988,Luxury Sedan
+CusID_31989,Sedan
+CusID_31990,Sports Sedan
+CusID_31991,Sports Sedan
+CusID_31992,Hatchback
+CusID_31993,Luxury Coupe
+CusID_31994,Crossover
+CusID_31995,Sports Sedan
+CusID_31996,Hatchback
+CusID_31997,Compact Utility Vehicle
+CusID_31998,Luxury Sedan
+CusID_31999,Utility Vehicle
+CusID_32000,Sports Utility Vehicle
+CusID_32001,Sports Utility Vehicle
+CusID_32002,Sportscar
+CusID_32003,Sports Utility Vehicle
+CusID_32004,Utility Vehicle
+CusID_32005,Compact Utility Vehicle
+CusID_32006,Utility Vehicle
+CusID_32007,Compact Utility Vehicle
+CusID_32008,Hatchback
+CusID_32009,Sportscar
+CusID_32010,Sports Sedan
+CusID_32011,Luxury Sedan
+CusID_32012,Utility Vehicle
+CusID_32013,Sports Sedan
+CusID_32014,Sports Utility Vehicle
+CusID_32015,Pickup-Truck
+CusID_32016,Sports Utility Vehicle
+CusID_32017,Sports Utility Vehicle
+CusID_32018,Sports Utility Vehicle
+CusID_32019,Sports Sedan
+CusID_32020,Utility Vehicle
+CusID_32021,Compact Utility Vehicle
+CusID_32022,Luxury Sedan
+CusID_32023,Sports Coupe
+CusID_32024,Sports Sedan
+CusID_32025,Crossover
+CusID_32026,Crossover
+CusID_32027,Compact Utility Vehicle
+CusID_32028,Crossover
+CusID_32029,Crossover
+CusID_32030,Minivan
+CusID_32031,Utility Vehicle
+CusID_32032,Luxury Sedan
+CusID_32033,Compact Utility Vehicle
+CusID_32034,Sports Sedan
+CusID_32035,Sportscar
+CusID_32036,Sports Utility Vehicle
+CusID_32037,Pickup-Truck
+CusID_32038,Luxury Sedan
+CusID_32039,Sports Utility Vehicle
+CusID_32040,Compact Utility Vehicle
+CusID_32041,Hatchback
+CusID_32042,Luxury Coupe
+CusID_32043,Luxury Sedan
+CusID_32044,Sports Utility Vehicle
+CusID_32045,Sports Sedan
+CusID_32046,Luxury Sedan
+CusID_32047,Compact Utility Vehicle
+CusID_32048,Compact Utility Vehicle
+CusID_32049,Utility Vehicle
+CusID_32050,Sports Utility Vehicle
+CusID_32051,Luxury Sedan
+CusID_32052,Compact Utility Vehicle
+CusID_32053,Sports Utility Vehicle
+CusID_32054,Utility Vehicle
+CusID_32055,Crossover
+CusID_32056,Utility Vehicle
+CusID_32057,Sports Sedan
+CusID_32058,Sedan
+CusID_32059,Utility Vehicle
+CusID_32060,Compact Sedan
+CusID_32061,Luxury Sedan
+CusID_32062,Luxury Coupe
+CusID_32063,Crossover
+CusID_32064,Luxury Sedan
+CusID_32065,Compact Utility Vehicle
+CusID_32066,Sedan
+CusID_32067,Sedan
+CusID_32068,Compact Sedan
+CusID_32069,Luxury Sedan
+CusID_32070,Pickup-Truck
+CusID_32071,Sedan
+CusID_32072,Crossover
+CusID_32073,Sportscar
+CusID_32074,Sedan
+CusID_32075,Luxury Sedan
+CusID_32076,Sports Sedan
+CusID_32077,Sports Coupe
+CusID_32078,Utility Vehicle
+CusID_32079,Utility Vehicle
+CusID_32080,Sports Sedan
+CusID_32081,Crossover
+CusID_32082,Crossover
+CusID_32083,Hatchback
+CusID_32084,Utility Vehicle
+CusID_32085,Sports Sedan
+CusID_32086,Luxury Sedan
+CusID_32087,Compact Utility Vehicle
+CusID_32088,Luxury Sedan
+CusID_32089,Compact Utility Vehicle
+CusID_32090,Luxury Sedan
+CusID_32091,Crossover
+CusID_32092,Crossover
+CusID_32093,Sports Utility Vehicle
+CusID_32094,Sedan
+CusID_32095,Sports Utility Vehicle
+CusID_32096,Luxury Sedan
+CusID_32097,Hatchback
+CusID_32098,Compact Utility Vehicle
+CusID_32099,Sports Sedan
+CusID_32100,Compact Sedan
+CusID_32101,Compact Sedan
+CusID_32102,Luxury Coupe
+CusID_32103,Pickup-Truck
+CusID_32104,Compact Sedan
+CusID_32105,Compact Utility Vehicle
+CusID_32106,Sedan
+CusID_32107,Hatchback
+CusID_32108,Sedan
+CusID_32109,Hatchback
+CusID_32110,Compact Utility Vehicle
+CusID_32111,Sedan
+CusID_32112,Luxury Sedan
+CusID_32113,Crossover
+CusID_32114,Compact Sedan
+CusID_32115,Sports Sedan
+CusID_32116,Compact Utility Vehicle
+CusID_32117,Pickup-Truck
+CusID_32118,Crossover
+CusID_32119,Sedan
+CusID_32120,Sports Sedan
+CusID_32121,Sports Sedan
+CusID_32122,Pickup-Truck
+CusID_32123,Sedan
+CusID_32124,Luxury Sedan
+CusID_32125,Sports Sedan
+CusID_32126,Crossover
+CusID_32127,Utility Vehicle
+CusID_32128,Compact Utility Vehicle
+CusID_32129,Compact Sedan
+CusID_32130,Crossover
+CusID_32131,Sedan
+CusID_32132,Compact Sedan
+CusID_32133,Compact Utility Vehicle
+CusID_32134,Sedan
+CusID_32135,Pickup-Truck
+CusID_32136,Pickup-Truck
+CusID_32137,Hatchback
+CusID_32138,Luxury Sedan
+CusID_32139,Compact Utility Vehicle
+CusID_32140,Compact Utility Vehicle
+CusID_32141,Convertible
+CusID_32142,Sports Utility Vehicle
+CusID_32143,Sedan
+CusID_32144,Sports Sedan
+CusID_32145,Sedan
+CusID_32146,Compact Utility Vehicle
+CusID_32147,Sports Sedan
+CusID_32148,Luxury Sedan
+CusID_32149,Utility Vehicle
+CusID_32150,Luxury Sedan
+CusID_32151,Hatchback
+CusID_32152,Pickup-Truck
+CusID_32153,Minivan
+CusID_32154,Luxury Sedan
+CusID_32155,Luxury Sedan
+CusID_32156,Crossover
+CusID_32157,Coupe
+CusID_32158,Sports Sedan
+CusID_32159,Compact Utility Vehicle
+CusID_32160,Sports Sedan
+CusID_32161,Compact Utility Vehicle
+CusID_32162,Crossover
+CusID_32163,Crossover
+CusID_32164,Pickup-Truck
+CusID_32165,Sports Utility Vehicle
+CusID_32166,Sports Sedan
+CusID_32167,Sports Utility Vehicle
+CusID_32168,Luxury Sedan
+CusID_32169,Sports Utility Vehicle
+CusID_32170,Crossover
+CusID_32171,Sports Sedan
+CusID_32172,Hatchback
+CusID_32173,Utility Vehicle
+CusID_32174,Sportscar
+CusID_32175,Sports Coupe
+CusID_32176,Sports Coupe
+CusID_32177,Crossover
+CusID_32178,Crossover
+CusID_32179,Pickup-Truck
+CusID_32180,Crossover
+CusID_32181,Pickup-Truck
+CusID_32182,Sports Utility Vehicle
+CusID_32183,Luxury Sedan
+CusID_32184,Sports Utility Vehicle
+CusID_32185,Luxury Sedan
+CusID_32186,Compact Utility Vehicle
+CusID_32187,Hatchback
+CusID_32188,Luxury Sedan
+CusID_32189,Luxury Sedan
+CusID_32190,Crossover
+CusID_32191,Luxury Sedan
+CusID_32192,Crossover
+CusID_32193,Sports Utility Vehicle
+CusID_32194,Luxury Sedan
+CusID_32195,Luxury Sedan
+CusID_32196,Sports Utility Vehicle
+CusID_32197,Sedan
+CusID_32198,Hatchback
+CusID_32199,Minivan
+CusID_32200,Sedan
+CusID_32201,Hatchback
+CusID_32202,Sports Utility Vehicle
+CusID_32203,Crossover
+CusID_32204,Crossover
+CusID_32205,Sedan
+CusID_32206,Compact Utility Vehicle
+CusID_32207,Utility Vehicle
+CusID_32208,Crossover
+CusID_32209,Hatchback
+CusID_32210,Compact Utility Vehicle
+CusID_32211,Sports Coupe
+CusID_32212,Sports Utility Vehicle
+CusID_32213,Sports Utility Vehicle
+CusID_32214,Compact Utility Vehicle
+CusID_32215,Compact Sedan
+CusID_32216,Compact Utility Vehicle
+CusID_32217,Crossover
+CusID_32218,Pickup-Truck
+CusID_32219,Compact Utility Vehicle
+CusID_32220,Compact Utility Vehicle
+CusID_32221,Sports Sedan
+CusID_32222,Pickup-Truck
+CusID_32223,Sedan
+CusID_32224,Pickup-Truck
+CusID_32225,Luxury Coupe
+CusID_32226,Compact Utility Vehicle
+CusID_32227,Compact Utility Vehicle
+CusID_32228,Sports Sedan
+CusID_32229,Sports Coupe
+CusID_32230,Sedan
+CusID_32231,Luxury Sedan
+CusID_32232,Compact Utility Vehicle
+CusID_32233,Sedan
+CusID_32234,Sports Sedan
+CusID_32235,Pickup-Truck
+CusID_32236,Luxury Sedan
+CusID_32237,Sports Utility Vehicle
+CusID_32238,Sedan
+CusID_32239,Sports Coupe
+CusID_32240,Crossover
+CusID_32241,Crossover
+CusID_32242,Compact Utility Vehicle
+CusID_32243,Convertible
+CusID_32244,Sports Utility Vehicle
+CusID_32245,Luxury Coupe
+CusID_32246,Sports Sedan
+CusID_32247,Utility Vehicle
+CusID_32248,Utility Vehicle
+CusID_32249,Convertible
+CusID_32250,Sports Utility Vehicle
+CusID_32251,Sports Utility Vehicle
+CusID_32252,Pickup-Truck
+CusID_32253,Minivan
+CusID_32254,Compact Sedan
+CusID_32255,Crossover
+CusID_32256,Sports Utility Vehicle
+CusID_32257,Crossover
+CusID_32258,Luxury Sedan
+CusID_32259,Sports Utility Vehicle
+CusID_32260,Sports Sedan
+CusID_32261,Sports Sedan
+CusID_32262,Sports Sedan
+CusID_32263,Pickup-Truck
+CusID_32264,Sportscar
+CusID_32265,Sedan
+CusID_32266,Sports Utility Vehicle
+CusID_32267,Sedan
+CusID_32268,Compact Utility Vehicle
+CusID_32269,Crossover
+CusID_32270,Crossover
+CusID_32271,Utility Vehicle
+CusID_32272,Hatchback
+CusID_32273,Sedan
+CusID_32274,Utility Vehicle
+CusID_32275,Compact Utility Vehicle
+CusID_32276,Sports Utility Vehicle
+CusID_32277,Pickup-Truck
+CusID_32278,Compact Utility Vehicle
+CusID_32279,Compact Utility Vehicle
+CusID_32280,Compact Utility Vehicle
+CusID_32281,Sports Sedan
+CusID_32282,Luxury Sedan
+CusID_32283,Utility Vehicle
+CusID_32284,Sports Utility Vehicle
+CusID_32285,Luxury Sedan
+CusID_32286,Utility Vehicle
+CusID_32287,Luxury Sedan
+CusID_32288,Luxury Sedan
+CusID_32289,Hatchback
+CusID_32290,Hatchback
+CusID_32291,Luxury Sedan
+CusID_32292,Sports Sedan
+CusID_32293,Pickup-Truck
+CusID_32294,Utility Vehicle
+CusID_32295,Crossover
+CusID_32296,Sedan
+CusID_32297,Compact Sedan
+CusID_32298,Compact Utility Vehicle
+CusID_32299,Compact Sedan
+CusID_32300,Pickup-Truck
+CusID_32301,Coupe
+CusID_32302,Compact Utility Vehicle
+CusID_32303,Convertible
+CusID_32304,Sportscar
+CusID_32305,Luxury Sedan
+CusID_32306,Luxury Sedan
+CusID_32307,Sports Utility Vehicle
+CusID_32308,Coupe
+CusID_32309,Sports Sedan
+CusID_32310,Sports Sedan
+CusID_32311,Crossover
+CusID_32312,Compact Utility Vehicle
+CusID_32313,Crossover
+CusID_32314,Sports Utility Vehicle
+CusID_32315,Sportscar
+CusID_32316,Crossover
+CusID_32317,Crossover
+CusID_32318,Sportscar
+CusID_32319,Compact Utility Vehicle
+CusID_32320,Compact Utility Vehicle
+CusID_32321,Compact Utility Vehicle
+CusID_32322,Crossover
+CusID_32323,Crossover
+CusID_32324,Coupe
+CusID_32325,Luxury Sedan
+CusID_32326,Compact Utility Vehicle
+CusID_32327,Crossover
+CusID_32328,Sports Coupe
+CusID_32329,Compact Sedan
+CusID_32330,Crossover
+CusID_32331,Sedan
+CusID_32332,Compact Utility Vehicle
+CusID_32333,Sports Utility Vehicle
+CusID_32334,Luxury Coupe
+CusID_32335,Hatchback
+CusID_32336,Sedan
+CusID_32337,Crossover
+CusID_32338,Sports Utility Vehicle
+CusID_32339,Pickup-Truck
+CusID_32340,Station Wagon
+CusID_32341,Sportscar
+CusID_32342,Luxury Sedan
+CusID_32343,Compact Utility Vehicle
+CusID_32344,Sedan
+CusID_32345,Sedan
+CusID_32346,Station Wagon
+CusID_32347,Sports Sedan
+CusID_32348,Crossover
+CusID_32349,Pickup-Truck
+CusID_32350,Hatchback
+CusID_32351,Crossover
+CusID_32352,Sedan
+CusID_32353,Sports Sedan
+CusID_32354,Utility Vehicle
+CusID_32355,Luxury Sedan
+CusID_32356,Luxury Sedan
+CusID_32357,Utility Vehicle
+CusID_32358,Compact Utility Vehicle
+CusID_32359,Compact Sedan
+CusID_32360,Compact Utility Vehicle
+CusID_32361,Crossover
+CusID_32362,Sports Sedan
+CusID_32363,Sedan
+CusID_32364,Sedan
+CusID_32365,Sportscar
+CusID_32366,Sports Utility Vehicle
+CusID_32367,Sports Sedan
+CusID_32368,Sports Sedan
+CusID_32369,Crossover
+CusID_32370,Compact Sedan
+CusID_32371,Sedan
+CusID_32372,Hatchback
+CusID_32373,Utility Vehicle
+CusID_32374,Luxury Sedan
+CusID_32375,Pickup-Truck
+CusID_32376,Compact Sedan
+CusID_32377,Sedan
+CusID_32378,Sports Sedan
+CusID_32379,Luxury Sedan
+CusID_32380,Station Wagon
+CusID_32381,Sports Utility Vehicle
+CusID_32382,Utility Vehicle
+CusID_32383,Utility Vehicle
+CusID_32384,Crossover
+CusID_32385,Sports Sedan
+CusID_32386,Sports Sedan
+CusID_32387,Sports Sedan
+CusID_32388,Sports Sedan
+CusID_32389,Hatchback
+CusID_32390,Utility Vehicle
+CusID_32391,Crossover
+CusID_32392,Convertible
+CusID_32393,Sedan
+CusID_32394,Hatchback
+CusID_32395,Sedan
+CusID_32396,Crossover
+CusID_32397,Luxury Sedan
+CusID_32398,Compact Sedan
+CusID_32399,Compact Utility Vehicle
+CusID_32400,Utility Vehicle
+CusID_32401,Hatchback
+CusID_32402,Compact Utility Vehicle
+CusID_32403,Sedan
+CusID_32404,Sports Utility Vehicle
+CusID_32405,Crossover
+CusID_32406,Convertible
+CusID_32407,Sports Utility Vehicle
+CusID_32408,Sedan
+CusID_32409,Utility Vehicle
+CusID_32410,Luxury Sedan
+CusID_32411,Hatchback
+CusID_32412,Crossover
+CusID_32413,Utility Vehicle
+CusID_32414,Crossover
+CusID_32415,Utility Vehicle
+CusID_32416,Luxury Sedan
+CusID_32417,Sedan
+CusID_32418,Convertible
+CusID_32419,Sportscar
+CusID_32420,Luxury Sedan
+CusID_32421,Luxury Sedan
+CusID_32422,Compact Utility Vehicle
+CusID_32423,Luxury Sedan
+CusID_32424,Sedan
+CusID_32425,Hatchback
+CusID_32426,Pickup-Truck
+CusID_32427,Sports Sedan
+CusID_32428,Crossover
+CusID_32429,Compact Utility Vehicle
+CusID_32430,Pickup-Truck
+CusID_32431,Coupe
+CusID_32432,Convertible
+CusID_32433,Crossover
+CusID_32434,Sedan
+CusID_32435,Luxury Sedan
+CusID_32436,Sports Sedan
+CusID_32437,Compact Sedan
+CusID_32438,Compact Sedan
+CusID_32439,Sedan
+CusID_32440,Compact Sedan
+CusID_32441,Crossover
+CusID_32442,Sedan
+CusID_32443,Utility Vehicle
+CusID_32444,Convertible
+CusID_32445,Utility Vehicle
+CusID_32446,Hatchback
+CusID_32447,Compact Sedan
+CusID_32448,Sports Sedan
+CusID_32449,Hatchback
+CusID_32450,Sportscar
+CusID_32451,Luxury Sedan
+CusID_32452,Luxury Sedan
+CusID_32453,Sports Utility Vehicle
+CusID_32454,Compact Sedan
+CusID_32455,Sports Sedan
+CusID_32456,Luxury Coupe
+CusID_32457,Convertible
+CusID_32458,Crossover
+CusID_32459,Sportscar
+CusID_32460,Sports Sedan
+CusID_32461,Sports Coupe
+CusID_32462,Utility Vehicle
+CusID_32463,Hatchback
+CusID_32464,Crossover
+CusID_32465,Crossover
+CusID_32466,Crossover
+CusID_32467,Luxury Sedan
+CusID_32468,Luxury Sedan
+CusID_32469,Compact Utility Vehicle
+CusID_32470,Sports Sedan
+CusID_32471,Compact Utility Vehicle
+CusID_32472,Luxury Sedan
+CusID_32473,Crossover
+CusID_32474,Compact Sedan
+CusID_32475,Convertible
+CusID_32476,Sports Utility Vehicle
+CusID_32477,Sports Sedan
+CusID_32478,Sports Utility Vehicle
+CusID_32479,Pickup-Truck
+CusID_32480,Compact Utility Vehicle
+CusID_32481,Sports Utility Vehicle
+CusID_32482,Compact Utility Vehicle
+CusID_32483,Sportscar
+CusID_32484,Luxury Sedan
+CusID_32485,Sportscar
+CusID_32486,Luxury Sedan
+CusID_32487,Crossover
+CusID_32488,Sports Coupe
+CusID_32489,Sportscar
+CusID_32490,Pickup-Truck
+CusID_32491,Convertible
+CusID_32492,Hatchback
+CusID_32493,Minivan
+CusID_32494,Pickup-Truck
+CusID_32495,Compact Utility Vehicle
+CusID_32496,Compact Utility Vehicle
+CusID_32497,Utility Vehicle
+CusID_32498,Sports Sedan
+CusID_32499,Sports Utility Vehicle
+CusID_32500,Crossover
+CusID_32501,Utility Vehicle
+CusID_32502,Utility Vehicle
+CusID_32503,Crossover
+CusID_32504,Crossover
+CusID_32505,Pickup-Truck
+CusID_32506,Compact Utility Vehicle
+CusID_32507,Sports Coupe
+CusID_32508,Luxury Sedan
+CusID_32509,Pickup-Truck
+CusID_32510,Sports Utility Vehicle
+CusID_32511,Sports Utility Vehicle
+CusID_32512,Hatchback
+CusID_32513,Luxury Sedan
+CusID_32514,Crossover
+CusID_32515,Compact Sedan
+CusID_32516,Convertible
+CusID_32517,Crossover
+CusID_32518,Compact Utility Vehicle
+CusID_32519,Luxury Sedan
+CusID_32520,Hatchback
+CusID_32521,Hatchback
+CusID_32522,Convertible
+CusID_32523,Sports Utility Vehicle
+CusID_32524,Compact Utility Vehicle
+CusID_32525,Luxury Sedan
+CusID_32526,Sports Sedan
+CusID_32527,Luxury Sedan
+CusID_32528,Convertible
+CusID_32529,Sports Utility Vehicle
+CusID_32530,Utility Vehicle
+CusID_32531,Utility Vehicle
+CusID_32532,Compact Sedan
+CusID_32533,Sports Sedan
+CusID_32534,Utility Vehicle
+CusID_32535,Luxury Sedan
+CusID_32536,Crossover
+CusID_32537,Sports Coupe
+CusID_32538,Crossover
+CusID_32539,Hatchback
+CusID_32540,Convertible
+CusID_32541,Sedan
+CusID_32542,Luxury Coupe
+CusID_32543,Sports Utility Vehicle
+CusID_32544,Luxury Coupe
+CusID_32545,Sports Utility Vehicle
+CusID_32546,Crossover
+CusID_32547,Hatchback
+CusID_32548,Compact Utility Vehicle
+CusID_32549,Sports Utility Vehicle
+CusID_32550,Luxury Coupe
+CusID_32551,Luxury Sedan
+CusID_32552,Luxury Sedan
+CusID_32553,Utility Vehicle
+CusID_32554,Pickup-Truck
+CusID_32555,Sports Sedan
+CusID_32556,Sports Sedan
+CusID_32557,Sportscar
+CusID_32558,Utility Vehicle
+CusID_32559,Sports Sedan
+CusID_32560,Compact Sedan
+CusID_32561,Crossover
+CusID_32562,Sports Sedan
+CusID_32563,Hatchback
+CusID_32564,Sports Sedan
+CusID_32565,Sports Utility Vehicle
+CusID_32566,Compact Utility Vehicle
+CusID_32567,Sports Sedan
+CusID_32568,Luxury Sedan
+CusID_32569,Pickup-Truck
+CusID_32570,Sports Sedan
+CusID_32571,Sedan
+CusID_32572,Crossover
+CusID_32573,Luxury Coupe
+CusID_32574,Sportscar
+CusID_32575,Sedan
+CusID_32576,Crossover
+CusID_32577,Pickup-Truck
+CusID_32578,Sports Sedan
+CusID_32579,Compact Utility Vehicle
+CusID_32580,Compact Utility Vehicle
+CusID_32581,Sports Sedan
+CusID_32582,Compact Sedan
+CusID_32583,Utility Vehicle
+CusID_32584,Crossover
+CusID_32585,Station Wagon
+CusID_32586,Crossover
+CusID_32587,Pickup-Truck
+CusID_32588,Sports Sedan
+CusID_32589,Compact Sedan
+CusID_32590,Sports Sedan
+CusID_32591,Sports Utility Vehicle
+CusID_32592,Pickup-Truck
+CusID_32593,Luxury Sedan
+CusID_32594,Sports Coupe
+CusID_32595,Sports Utility Vehicle
+CusID_32596,Utility Vehicle
+CusID_32597,Compact Utility Vehicle
+CusID_32598,Crossover
+CusID_32599,Sports Coupe
+CusID_32600,Sports Sedan
+CusID_32601,Luxury Sedan
+CusID_32602,Compact Utility Vehicle
+CusID_32603,Crossover
+CusID_32604,Crossover
+CusID_32605,Sportscar
+CusID_32606,Sedan
+CusID_32607,Luxury Coupe
+CusID_32608,Luxury Sedan
+CusID_32609,Luxury Sedan
+CusID_32610,Sports Coupe
+CusID_32611,Sports Utility Vehicle
+CusID_32612,Crossover
+CusID_32613,Sportscar
+CusID_32614,Sports Utility Vehicle
+CusID_32615,Crossover
+CusID_32616,Compact Utility Vehicle
+CusID_32617,Luxury Sedan
+CusID_32618,Pickup-Truck
+CusID_32619,Luxury Sedan
+CusID_32620,Sports Sedan
+CusID_32621,Sports Utility Vehicle
+CusID_32622,Coupe
+CusID_32623,Crossover
+CusID_32624,Hatchback
+CusID_32625,Utility Vehicle
+CusID_32626,Sports Utility Vehicle
+CusID_32627,Sports Utility Vehicle
+CusID_32628,Luxury Sedan
+CusID_32629,Hatchback
+CusID_32630,Hatchback
+CusID_32631,Sedan
+CusID_32632,Hatchback
+CusID_32633,Luxury Sedan
+CusID_32634,Sedan
+CusID_32635,Utility Vehicle
+CusID_32636,Luxury Sedan
+CusID_32637,Crossover
+CusID_32638,Compact Utility Vehicle
+CusID_32639,Sports Sedan
+CusID_32640,Sportscar
+CusID_32641,Station Wagon
+CusID_32642,Luxury Sedan
+CusID_32643,Crossover
+CusID_32644,Convertible
+CusID_32645,Sports Utility Vehicle
+CusID_32646,Sports Sedan
+CusID_32647,Sedan
+CusID_32648,Sports Coupe
+CusID_32649,Compact Sedan
+CusID_32650,Crossover
+CusID_32651,Luxury Coupe
+CusID_32652,Luxury Coupe
+CusID_32653,Pickup-Truck
+CusID_32654,Luxury Sedan
+CusID_32655,Pickup-Truck
+CusID_32656,Sedan
+CusID_32657,Sedan
+CusID_32658,Sedan
+CusID_32659,Luxury Sedan
+CusID_32660,Utility Vehicle
+CusID_32661,Luxury Coupe
+CusID_32662,Sports Sedan
+CusID_32663,Compact Utility Vehicle
+CusID_32664,Utility Vehicle
+CusID_32665,Sportscar
+CusID_32666,Sports Sedan
+CusID_32667,Crossover
+CusID_32668,Utility Vehicle
+CusID_32669,Utility Vehicle
+CusID_32670,Sports Utility Vehicle
+CusID_32671,Sports Utility Vehicle
+CusID_32672,Utility Vehicle
+CusID_32673,Sportscar
+CusID_32674,Luxury Sedan
+CusID_32675,Sports Sedan
+CusID_32676,Luxury Sedan
+CusID_32677,Luxury Sedan
+CusID_32678,Utility Vehicle
+CusID_32679,Sports Utility Vehicle
+CusID_32680,Sports Utility Vehicle
+CusID_32681,Sedan
+CusID_32682,Luxury Sedan
+CusID_32683,Hatchback
+CusID_32684,Sports Sedan
+CusID_32685,Sedan
+CusID_32686,Compact Sedan
+CusID_32687,Minivan
+CusID_32688,Sports Sedan
+CusID_32689,Sports Utility Vehicle
+CusID_32690,Compact Utility Vehicle
+CusID_32691,Sports Sedan
+CusID_32692,Sports Sedan
+CusID_32693,Coupe
+CusID_32694,Sports Sedan
+CusID_32695,Pickup-Truck
+CusID_32696,Crossover
+CusID_32697,Crossover
+CusID_32698,Sedan
+CusID_32699,Utility Vehicle
+CusID_32700,Sports Coupe
+CusID_32701,Luxury Sedan
+CusID_32702,Sports Sedan
+CusID_32703,Crossover
+CusID_32704,Crossover
+CusID_32705,Hatchback
+CusID_32706,Coupe
+CusID_32707,Compact Sedan
+CusID_32708,Sportscar
+CusID_32709,Crossover
+CusID_32710,Sports Utility Vehicle
+CusID_32711,Sportscar
+CusID_32712,Crossover
+CusID_32713,Luxury Sedan
+CusID_32714,Pickup-Truck
+CusID_32715,Sedan
+CusID_32716,Utility Vehicle
+CusID_32717,Sports Coupe
+CusID_32718,Luxury Sedan
+CusID_32719,Crossover
+CusID_32720,Hatchback
+CusID_32721,Crossover
+CusID_32722,Sports Sedan
+CusID_32723,Luxury Sedan
+CusID_32724,Sports Utility Vehicle
+CusID_32725,Compact Utility Vehicle
+CusID_32726,Compact Utility Vehicle
+CusID_32727,Compact Sedan
+CusID_32728,Sportscar
+CusID_32729,Luxury Coupe
+CusID_32730,Sports Sedan
+CusID_32731,Compact Sedan
+CusID_32732,Coupe
+CusID_32733,Luxury Sedan
+CusID_32734,Convertible
+CusID_32735,Crossover
+CusID_32736,Sports Sedan
+CusID_32737,Convertible
+CusID_32738,Luxury Sedan
+CusID_32739,Pickup-Truck
+CusID_32740,Utility Vehicle
+CusID_32741,Crossover
+CusID_32742,Luxury Sedan
+CusID_32743,Sedan
+CusID_32744,Utility Vehicle
+CusID_32745,Pickup-Truck
+CusID_32746,Sports Sedan
+CusID_32747,Sports Utility Vehicle
+CusID_32748,Sports Coupe
+CusID_32749,Compact Utility Vehicle
+CusID_32750,Sportscar
+CusID_32751,Sedan
+CusID_32752,Sedan
+CusID_32753,Pickup-Truck
+CusID_32754,Crossover
+CusID_32755,Luxury Sedan
+CusID_32756,Sports Sedan
+CusID_32757,Utility Vehicle
+CusID_32758,Hatchback
+CusID_32759,Hatchback
+CusID_32760,Sports Utility Vehicle
+CusID_32761,Pickup-Truck
+CusID_32762,Sports Sedan
+CusID_32763,Pickup-Truck
+CusID_32764,Sports Coupe
+CusID_32765,Utility Vehicle
+CusID_32766,Sedan
+CusID_32767,Hatchback
+CusID_32768,Luxury Coupe
+CusID_32769,Sports Utility Vehicle
+CusID_32770,Crossover
+CusID_32771,Sports Utility Vehicle
+CusID_32772,Compact Utility Vehicle
+CusID_32773,Compact Utility Vehicle
+CusID_32774,Utility Vehicle
+CusID_32775,Sportscar
+CusID_32776,Luxury Sedan
+CusID_32777,Utility Vehicle
+CusID_32778,Luxury Sedan
+CusID_32779,Coupe
+CusID_32780,Compact Sedan
+CusID_32781,Crossover
+CusID_32782,Sports Sedan
+CusID_32783,Compact Utility Vehicle
+CusID_32784,Crossover
+CusID_32785,Sports Sedan
+CusID_32786,Compact Sedan
+CusID_32787,Crossover
+CusID_32788,Sports Utility Vehicle
+CusID_32789,Crossover
+CusID_32790,Sports Sedan
+CusID_32791,Sportscar
+CusID_32792,Compact Utility Vehicle
+CusID_32793,Sports Coupe
+CusID_32794,Crossover
+CusID_32795,Compact Utility Vehicle
+CusID_32796,Pickup-Truck
+CusID_32797,Luxury Sedan
+CusID_32798,Sportscar
+CusID_32799,Crossover
+CusID_32800,Sports Coupe
+CusID_32801,Crossover
+CusID_32802,Compact Sedan
+CusID_32803,Pickup-Truck
+CusID_32804,Sports Utility Vehicle
+CusID_32805,Crossover
+CusID_32806,Sports Sedan
+CusID_32807,Luxury Sedan
+CusID_32808,Crossover
+CusID_32809,Sports Sedan
+CusID_32810,Sports Sedan
+CusID_32811,Sports Coupe
+CusID_32812,Hatchback
+CusID_32813,Hatchback
+CusID_32814,Sportscar
+CusID_32815,Compact Utility Vehicle
+CusID_32816,Crossover
+CusID_32817,Sedan
+CusID_32818,Compact Utility Vehicle
+CusID_32819,Hatchback
+CusID_32820,Crossover
+CusID_32821,Crossover
+CusID_32822,Sedan
+CusID_32823,Sports Coupe
+CusID_32824,Pickup-Truck
+CusID_32825,Luxury Coupe
+CusID_32826,Sports Sedan
+CusID_32827,Luxury Sedan
+CusID_32828,Luxury Sedan
+CusID_32829,Hatchback
+CusID_32830,Luxury Sedan
+CusID_32831,Utility Vehicle
+CusID_32832,Crossover
+CusID_32833,Utility Vehicle
+CusID_32834,Utility Vehicle
+CusID_32835,Hatchback
+CusID_32836,Sports Utility Vehicle
+CusID_32837,Compact Sedan
+CusID_32838,Utility vehicle
+CusID_32839,Hatchback
+CusID_32840,Sports Sedan
+CusID_32841,Utility Vehicle
+CusID_32842,Sports Sedan
+CusID_32843,Sports Sedan
+CusID_32844,Compact Sedan
+CusID_32845,Luxury Sedan
+CusID_32846,Sports Utility Vehicle
+CusID_32847,Crossover
+CusID_32848,Luxury Sedan
+CusID_32849,Sports Utility Vehicle
+CusID_32850,Sedan
+CusID_32851,Station Wagon
+CusID_32852,Crossover
+CusID_32853,Sports Sedan
+CusID_32854,Hatchback
+CusID_32855,Luxury Sedan
+CusID_32856,Crossover
+CusID_32857,Pickup-Truck
+CusID_32858,Luxury Coupe
+CusID_32859,Sports Utility Vehicle
+CusID_32860,Pickup-Truck
+CusID_32861,Sedan
+CusID_32862,Sports Utility Vehicle
+CusID_32863,Sports Sedan
+CusID_32864,Crossover
+CusID_32865,Pickup-Truck
+CusID_32866,Luxury Sedan
+CusID_32867,Sports Sedan
+CusID_32868,Crossover
+CusID_32869,Luxury Coupe
+CusID_32870,Utility Vehicle
+CusID_32871,Pickup-Truck
+CusID_32872,Minivan
+CusID_32873,Crossover
+CusID_32874,Hatchback
+CusID_32875,Coupe
+CusID_32876,Compact Utility Vehicle
+CusID_32877,Luxury Sedan
+CusID_32878,Coupe
+CusID_32879,Sports Coupe
+CusID_32880,Compact Utility Vehicle
+CusID_32881,Sedan
+CusID_32882,Sports Utility Vehicle
+CusID_32883,Sports Coupe
+CusID_32884,Pickup-Truck
+CusID_32885,Compact Utility Vehicle
+CusID_32886,Sports Utility Vehicle
+CusID_32887,Sports Sedan
+CusID_32888,Sports Sedan
+CusID_32889,Luxury Sedan
+CusID_32890,Luxury Sedan
+CusID_32891,Sports Utility Vehicle
+CusID_32892,Sports Coupe
+CusID_32893,Sedan
+CusID_32894,Crossover
+CusID_32895,Sportscar
+CusID_32896,Crossover
+CusID_32897,Sports Utility Vehicle
+CusID_32898,Sports Coupe
+CusID_32899,Sports Sedan
+CusID_32900,Compact Utility Vehicle
+CusID_32901,Pickup-Truck
+CusID_32902,Luxury Sedan
+CusID_32903,Sports Utility Vehicle
+CusID_32904,Pickup-Truck
+CusID_32905,Sports Utility Vehicle
+CusID_32906,Utility Vehicle
+CusID_32907,Compact Utility Vehicle
+CusID_32908,Hatchback
+CusID_32909,Sports Sedan
+CusID_32910,Sedan
+CusID_32911,Crossover
+CusID_32912,Sports Utility Vehicle
+CusID_32913,Luxury Coupe
+CusID_32914,Luxury Sedan
+CusID_32915,Luxury Sedan
+CusID_32916,Hatchback
+CusID_32917,Sports Coupe
+CusID_32918,Sports Utility Vehicle
+CusID_32919,Sports Utility Vehicle
+CusID_32920,Sports Sedan
+CusID_32921,Sports Utility Vehicle
+CusID_32922,Pickup-Truck
+CusID_32923,Convertible
+CusID_32924,Pickup-Truck
+CusID_32925,Compact Utility Vehicle
+CusID_32926,Utility Vehicle
+CusID_32927,Luxury Sedan
+CusID_32928,Luxury Coupe
+CusID_32929,Luxury Coupe
+CusID_32930,Compact Utility Vehicle
+CusID_32931,Sports Sedan
+CusID_32932,Luxury Sedan
+CusID_32933,Luxury Sedan
+CusID_32934,Utility Vehicle
+CusID_32935,Crossover
+CusID_32936,Compact Utility Vehicle
+CusID_32937,Sports Utility Vehicle
+CusID_32938,Crossover
+CusID_32939,Sedan
+CusID_32940,Pickup-Truck
+CusID_32941,Crossover
+CusID_32942,Utility Vehicle
+CusID_32943,Sports Utility Vehicle
+CusID_32944,Crossover
+CusID_32945,Luxury Sedan
+CusID_32946,Sports Sedan
+CusID_32947,Sports Sedan
+CusID_32948,Crossover
+CusID_32949,Sports Coupe
+CusID_32950,Compact Utility Vehicle
+CusID_32951,Sports Utility Vehicle
+CusID_32952,Crossover
+CusID_32953,Pickup-Truck
+CusID_32954,Utility Vehicle
+CusID_32955,Luxury Coupe
+CusID_32956,Sedan
+CusID_32957,Utility Vehicle
+CusID_32958,Compact Utility Vehicle
+CusID_32959,Sedan
+CusID_32960,Compact Utility Vehicle
+CusID_32961,Utility Vehicle
+CusID_32962,Luxury Sedan
+CusID_32963,Luxury Coupe
+CusID_32964,Luxury Sedan
+CusID_32965,Compact Utility Vehicle
+CusID_32966,Compact Utility Vehicle
+CusID_32967,Compact Sedan
+CusID_32968,Sedan
+CusID_32969,Utility Vehicle
+CusID_32970,Pickup-Truck
+CusID_32971,Compact Sedan
+CusID_32972,Compact Utility Vehicle
+CusID_32973,Luxury Coupe
+CusID_32974,Crossover
+CusID_32975,Compact Utility Vehicle
+CusID_32976,Pickup-Truck
+CusID_32977,Sports Sedan
+CusID_32978,Sports Coupe
+CusID_32979,Sports Sedan
+CusID_32980,Luxury Coupe
+CusID_32981,Sports Utility Vehicle
+CusID_32982,Sports Utility Vehicle
+CusID_32983,Sportscar
+CusID_32984,Minivan
+CusID_32985,Luxury Sedan
+CusID_32986,Luxury Sedan
+CusID_32987,Sports Utility Vehicle
+CusID_32988,Pickup-Truck
+CusID_32989,Pickup-Truck
+CusID_32990,Luxury Coupe
+CusID_32991,Station Wagon
+CusID_32992,Sportscar
+CusID_32993,Sports Utility Vehicle
+CusID_32994,Compact Utility Vehicle
+CusID_32995,Minivan
+CusID_32996,Luxury Sedan
+CusID_32997,Crossover
+CusID_32998,Pickup-Truck
+CusID_32999,Luxury Sedan
+CusID_33000,Luxury Coupe
+CusID_33001,Luxury Coupe
+CusID_33002,Compact Utility Vehicle
+CusID_33003,Hatchback
+CusID_33004,Sports Utility Vehicle
+CusID_33005,Sports Sedan
+CusID_33006,Compact Utility Vehicle
+CusID_33007,Luxury Sedan
+CusID_33008,Luxury Sedan
+CusID_33009,Luxury Coupe
+CusID_33010,Utility Vehicle
+CusID_33011,Crossover
+CusID_33012,Luxury Sedan
+CusID_33013,Minivan
+CusID_33014,Crossover
+CusID_33015,Hatchback
+CusID_33016,Hatchback
+CusID_33017,Compact Utility Vehicle
+CusID_33018,Sportscar
+CusID_33019,Sports Sedan
+CusID_33020,Compact Utility Vehicle
+CusID_33021,Hatchback
+CusID_33022,Sports Sedan
+CusID_33023,Sedan
+CusID_33024,Coupe
+CusID_33025,Coupe
+CusID_33026,Sports Sedan
+CusID_33027,Sports Utility Vehicle
+CusID_33028,Coupe
+CusID_33029,Minivan
+CusID_33030,Crossover
+CusID_33031,Utility Vehicle
+CusID_33032,Sedan
+CusID_33033,Hatchback
+CusID_33034,Luxury Sedan
+CusID_33035,Utility vehicle
+CusID_33036,Hatchback
+CusID_33037,Sports Sedan
+CusID_33038,Compact Utility Vehicle
+CusID_33039,Luxury Sedan
+CusID_33040,Luxury Sedan
+CusID_33041,Pickup-Truck
+CusID_33042,Sports Utility Vehicle
+CusID_33043,Sedan
+CusID_33044,Compact Sedan
+CusID_33045,Luxury Sedan
+CusID_33046,Sports Utility Vehicle
+CusID_33047,Sedan
+CusID_33048,Utility Vehicle
+CusID_33049,Sedan
+CusID_33050,Crossover
+CusID_33051,Luxury Sedan
+CusID_33052,Hatchback
+CusID_33053,Sports Sedan
+CusID_33054,Hatchback
+CusID_33055,Crossover
+CusID_33056,Convertible
+CusID_33057,Convertible
+CusID_33058,Utility Vehicle
+CusID_33059,Crossover
+CusID_33060,Sports Utility Vehicle
+CusID_33061,Sedan
+CusID_33062,Convertible
+CusID_33063,Utility Vehicle
+CusID_33064,Luxury Coupe
+CusID_33065,Sports Sedan
+CusID_33066,Sports Utility Vehicle
+CusID_33067,Convertible
+CusID_33068,Compact Utility Vehicle
+CusID_33069,Pickup-Truck
+CusID_33070,Luxury Coupe
+CusID_33071,Compact Sedan
+CusID_33072,Utility Vehicle
+CusID_33073,Luxury Sedan
+CusID_33074,Crossover
+CusID_33075,Crossover
+CusID_33076,Minivan
+CusID_33077,Sports Coupe
+CusID_33078,Compact Utility Vehicle
+CusID_33079,Crossover
+CusID_33080,Sports Utility Vehicle
+CusID_33081,Sportscar
+CusID_33082,Luxury Sedan
+CusID_33083,Sedan
+CusID_33084,Sports Utility Vehicle
+CusID_33085,Crossover
+CusID_33086,Crossover
+CusID_33087,Sports Utility Vehicle
+CusID_33088,Sports Utility Vehicle
+CusID_33089,Pickup-Truck
+CusID_33090,Crossover
+CusID_33091,Luxury Sedan
+CusID_33092,Utility Vehicle
+CusID_33093,Crossover
+CusID_33094,Compact Utility Vehicle
+CusID_33095,Luxury Sedan
+CusID_33096,Sports Utility Vehicle
+CusID_33097,Sedan
+CusID_33098,Crossover
+CusID_33099,Luxury Sedan
+CusID_33100,Crossover
+CusID_33101,Crossover
+CusID_33102,Utility Vehicle
+CusID_33103,Sportscar
+CusID_33104,Luxury Sedan
+CusID_33105,Pickup-Truck
+CusID_33106,Crossover
+CusID_33107,Sports Sedan
+CusID_33108,Compact Utility Vehicle
+CusID_33109,Sedan
+CusID_33110,Crossover
+CusID_33111,Utility Vehicle
+CusID_33112,Sportscar
+CusID_33113,Utility Vehicle
+CusID_33114,Crossover
+CusID_33115,Sports Sedan
+CusID_33116,Crossover
+CusID_33117,Compact Utility Vehicle
+CusID_33118,Utility Vehicle
+CusID_33119,Luxury Sedan
+CusID_33120,Pickup-Truck
+CusID_33121,Luxury Sedan
+CusID_33122,Utility Vehicle
+CusID_33123,Convertible
+CusID_33124,Hatchback
+CusID_33125,Sports Utility Vehicle
+CusID_33126,Compact Utility Vehicle
+CusID_33127,Luxury Sedan
+CusID_33128,Luxury Sedan
+CusID_33129,Luxury Coupe
+CusID_33130,Convertible
+CusID_33131,Luxury Sedan
+CusID_33132,Pickup-Truck
+CusID_33133,Compact Utility Vehicle
+CusID_33134,Sports Sedan
+CusID_33135,Hatchback
+CusID_33136,Compact Utility Vehicle
+CusID_33137,Crossover
+CusID_33138,Sports Sedan
+CusID_33139,Utility Vehicle
+CusID_33140,Sedan
+CusID_33141,Crossover
+CusID_33142,Crossover
+CusID_33143,Sports Sedan
+CusID_33144,Utility Vehicle
+CusID_33145,Compact Utility Vehicle
+CusID_33146,Luxury Sedan
+CusID_33147,Sports Utility Vehicle
+CusID_33148,Luxury Sedan
+CusID_33149,Compact Utility Vehicle
+CusID_33150,Hatchback
+CusID_33151,Utility Vehicle
+CusID_33152,Sports Sedan
+CusID_33153,Compact Utility Vehicle
+CusID_33154,Sports Sedan
+CusID_33155,Utility Vehicle
+CusID_33156,Luxury Sedan
+CusID_33157,Compact Utility Vehicle
+CusID_33158,Sports Sedan
+CusID_33159,Utility Vehicle
+CusID_33160,Crossover
+CusID_33161,Convertible
+CusID_33162,Crossover
+CusID_33163,Sports Sedan
+CusID_33164,Luxury Sedan
+CusID_33165,Sedan
+CusID_33166,Compact Utility Vehicle
+CusID_33167,Sports Utility Vehicle
+CusID_33168,Hatchback
+CusID_33169,Compact Utility Vehicle
+CusID_33170,Hatchback
+CusID_33171,Sports Utility Vehicle
+CusID_33172,Sports Sedan
+CusID_33173,Luxury Sedan
+CusID_33174,Hatchback
+CusID_33175,Hatchback
+CusID_33176,Sports Utility Vehicle
+CusID_33177,Compact Utility Vehicle
+CusID_33178,Sedan
+CusID_33179,Sports Sedan
+CusID_33180,Utility Vehicle
+CusID_33181,Compact Sedan
+CusID_33182,Luxury Coupe
+CusID_33183,Crossover
+CusID_33184,Sedan
+CusID_33185,Crossover
+CusID_33186,Sports Utility Vehicle
+CusID_33187,Compact Utility Vehicle
+CusID_33188,Sportscar
+CusID_33189,Luxury Sedan
+CusID_33190,Compact Sedan
+CusID_33191,Compact Utility Vehicle
+CusID_33192,Sports Coupe
+CusID_33193,Utility Vehicle
+CusID_33194,Minivan
+CusID_33195,Compact Sedan
+CusID_33196,Sports Coupe
+CusID_33197,Sports Sedan
+CusID_33198,Sports Coupe
+CusID_33199,Luxury Sedan
+CusID_33200,Coupe
+CusID_33201,Luxury Sedan
+CusID_33202,Sports Utility Vehicle
+CusID_33203,Sedan
+CusID_33204,Sports Sedan
+CusID_33205,Pickup-Truck
+CusID_33206,Utility Vehicle
+CusID_33207,Luxury Sedan
+CusID_33208,Pickup-Truck
+CusID_33209,Crossover
+CusID_33210,Sports Sedan
+CusID_33211,Pickup-Truck
+CusID_33212,Compact Utility Vehicle
+CusID_33213,Sports Utility Vehicle
+CusID_33214,Compact Sedan
+CusID_33215,Luxury Sedan
+CusID_33216,Convertible
+CusID_33217,Sports Utility Vehicle
+CusID_33218,Compact Utility Vehicle
+CusID_33219,Sports Sedan
+CusID_33220,Sports Sedan
+CusID_33221,Utility Vehicle
+CusID_33222,Sportscar
+CusID_33223,Sports Sedan
+CusID_33224,Crossover
+CusID_33225,Utility Vehicle
+CusID_33226,Convertible
+CusID_33227,Luxury Sedan
+CusID_33228,Sports Sedan
+CusID_33229,Sedan
+CusID_33230,Compact Utility Vehicle
+CusID_33231,Crossover
+CusID_33232,Luxury Sedan
+CusID_33233,Utility Vehicle
+CusID_33234,Convertible
+CusID_33235,Crossover
+CusID_33236,Luxury Sedan
+CusID_33237,Crossover
+CusID_33238,Sports Utility Vehicle
+CusID_33239,Luxury Coupe
+CusID_33240,Sports Sedan
+CusID_33241,Sedan
+CusID_33242,Crossover
+CusID_33243,Pickup-Truck
+CusID_33244,Luxury Coupe
+CusID_33245,Luxury Sedan
+CusID_33246,Crossover
+CusID_33247,Hatchback
+CusID_33248,Sports Utility Vehicle
+CusID_33249,Luxury Sedan
+CusID_33250,Hatchback
+CusID_33251,Pickup-Truck
+CusID_33252,Sedan
+CusID_33253,Hatchback
+CusID_33254,Luxury Sedan
+CusID_33255,Station Wagon
+CusID_33256,Crossover
+CusID_33257,Pickup-Truck
+CusID_33258,Sports Utility Vehicle
+CusID_33259,Crossover
+CusID_33260,Sports Utility Vehicle
+CusID_33261,Sedan
+CusID_33262,Compact Sedan
+CusID_33263,Crossover
+CusID_33264,Pickup-Truck
+CusID_33265,Sedan
+CusID_33266,Luxury Sedan
+CusID_33267,Sports Sedan
+CusID_33268,Sports Sedan
+CusID_33269,Sports Sedan
+CusID_33270,Compact Utility Vehicle
+CusID_33271,Luxury Sedan
+CusID_33272,Luxury Sedan
+CusID_33273,Hatchback
+CusID_33274,Luxury Sedan
+CusID_33275,Crossover
+CusID_33276,Compact Utility Vehicle
+CusID_33277,Pickup-Truck
+CusID_33278,Convertible
+CusID_33279,Luxury Coupe
+CusID_33280,Sedan
+CusID_33281,Luxury Coupe
+CusID_33282,Sports Coupe
+CusID_33283,Compact Sedan
+CusID_33284,Sports Sedan
+CusID_33285,Crossover
+CusID_33286,Sports Utility Vehicle
+CusID_33287,Compact Sedan
+CusID_33288,Crossover
+CusID_33289,Utility Vehicle
+CusID_33290,Compact Utility Vehicle
+CusID_33291,Pickup-Truck
+CusID_33292,Crossover
+CusID_33293,Pickup-Truck
+CusID_33294,Hatchback
+CusID_33295,Sedan
+CusID_33296,Minivan
+CusID_33297,Utility Vehicle
+CusID_33298,Luxury Sedan
+CusID_33299,Sports Sedan
+CusID_33300,Luxury Sedan
+CusID_33301,Sports Sedan
+CusID_33302,Crossover
+CusID_33303,Sports Utility Vehicle
+CusID_33304,Sports Sedan
+CusID_33305,Sports Utility Vehicle
+CusID_33306,Utility Vehicle
+CusID_33307,Hatchback
+CusID_33308,Convertible
+CusID_33309,Sports Sedan
+CusID_33310,Pickup-Truck
+CusID_33311,Crossover
+CusID_33312,Crossover
+CusID_33313,Sports Utility Vehicle
+CusID_33314,Compact Utility Vehicle
+CusID_33315,Compact Utility Vehicle
+CusID_33316,Luxury Coupe
+CusID_33317,Sportscar
+CusID_33318,Sedan
+CusID_33319,Luxury Sedan
+CusID_33320,Hatchback
+CusID_33321,Sedan
+CusID_33322,Utility Vehicle
+CusID_33323,Compact Sedan
+CusID_33324,Sportscar
+CusID_33325,Utility Vehicle
+CusID_33326,Compact Utility Vehicle
+CusID_33327,Compact Utility Vehicle
+CusID_33328,Sports Sedan
+CusID_33329,Crossover
+CusID_33330,Minivan
+CusID_33331,Compact Sedan
+CusID_33332,Compact Utility Vehicle
+CusID_33333,Sports Utility Vehicle
+CusID_33334,Luxury Coupe
+CusID_33335,Crossover
+CusID_33336,Compact Utility Vehicle
+CusID_33337,Sports Utility Vehicle
+CusID_33338,Hatchback
+CusID_33339,Luxury Sedan
+CusID_33340,Compact Utility Vehicle
+CusID_33341,Utility Vehicle
+CusID_33342,Crossover
+CusID_33343,Utility Vehicle
+CusID_33344,Pickup-Truck
+CusID_33345,Luxury Sedan
+CusID_33346,Utility Vehicle
+CusID_33347,Luxury Sedan
+CusID_33348,Crossover
+CusID_33349,Utility Vehicle
+CusID_33350,Utility Vehicle
+CusID_33351,Luxury Sedan
+CusID_33352,Sports Sedan
+CusID_33353,Sports Utility Vehicle
+CusID_33354,Utility Vehicle
+CusID_33355,Hatchback
+CusID_33356,Utility Vehicle
+CusID_33357,Pickup-Truck
+CusID_33358,Compact Sedan
+CusID_33359,Crossover
+CusID_33360,Luxury Sedan
+CusID_33361,Sports Utility Vehicle
+CusID_33362,Luxury Coupe
+CusID_33363,Sports Sedan
+CusID_33364,Utility Vehicle
+CusID_33365,Sports Sedan
+CusID_33366,Compact Sedan
+CusID_33367,Compact Sedan
+CusID_33368,Hatchback
+CusID_33369,Luxury Sedan
+CusID_33370,Sports Sedan
+CusID_33371,Sedan
+CusID_33372,Compact Utility Vehicle
+CusID_33373,Sports Sedan
+CusID_33374,Luxury Sedan
+CusID_33375,Luxury Sedan
+CusID_33376,Sports Utility Vehicle
+CusID_33377,Compact Utility Vehicle
+CusID_33378,Sports Utility Vehicle
+CusID_33379,Luxury Sedan
+CusID_33380,Pickup-Truck
+CusID_33381,Sports Utility Vehicle
+CusID_33382,Utility Vehicle
+CusID_33383,Sports Utility Vehicle
+CusID_33384,Luxury Coupe
+CusID_33385,Hatchback
+CusID_33386,Compact Utility Vehicle
+CusID_33387,Luxury Sedan
+CusID_33388,Utility Vehicle
+CusID_33389,Pickup-Truck
+CusID_33390,Hatchback
+CusID_33391,Sportscar
+CusID_33392,Crossover
+CusID_33393,Compact Utility Vehicle
+CusID_33394,Sedan
+CusID_33395,Sports Sedan
+CusID_33396,Crossover
+CusID_33397,Sportscar
+CusID_33398,Luxury Sedan
+CusID_33399,Utility Vehicle
+CusID_33400,Crossover
+CusID_33401,Pickup-Truck
+CusID_33402,Compact Sedan
+CusID_33403,Sports Sedan
+CusID_33404,Pickup-Truck
+CusID_33405,Luxury Sedan
+CusID_33406,Sports Utility Vehicle
+CusID_33407,Compact Utility Vehicle
+CusID_33408,Sports Sedan
+CusID_33409,Compact Utility Vehicle
+CusID_33410,Sports Utility Vehicle
+CusID_33411,Sedan
+CusID_33412,Crossover
+CusID_33413,Crossover
+CusID_33414,Compact Sedan
+CusID_33415,Sports Utility Vehicle
+CusID_33416,Pickup-Truck
+CusID_33417,Sedan
+CusID_33418,Sedan
+CusID_33419,Utility Vehicle
+CusID_33420,Sedan
+CusID_33421,Sedan
+CusID_33422,Utility Vehicle
+CusID_33423,Convertible
+CusID_33424,Luxury Sedan
+CusID_33425,Sedan
+CusID_33426,Compact Utility Vehicle
+CusID_33427,Sports Utility Vehicle
+CusID_33428,Sports Utility Vehicle
+CusID_33429,Sports Coupe
+CusID_33430,Compact Sedan
+CusID_33431,Compact Utility Vehicle
+CusID_33432,Sports Sedan
+CusID_33433,Sports Sedan
+CusID_33434,Coupe
+CusID_33435,Convertible
+CusID_33436,Sedan
+CusID_33437,Sports Sedan
+CusID_33438,Compact Utility Vehicle
+CusID_33439,Hatchback
+CusID_33440,Utility Vehicle
+CusID_33441,Hatchback
+CusID_33442,Sedan
+CusID_33443,Sports Sedan
+CusID_33444,Sports Sedan
+CusID_33445,Hatchback
+CusID_33446,Sports Coupe
+CusID_33447,Coupe
+CusID_33448,Pickup-Truck
+CusID_33449,Sports Sedan
+CusID_33450,Luxury Sedan
+CusID_33451,Coupe
+CusID_33452,Sports Utility Vehicle
+CusID_33453,Luxury Sedan
+CusID_33454,Sports Sedan
+CusID_33455,Luxury Sedan
+CusID_33456,Compact Utility Vehicle
+CusID_33457,Luxury Sedan
+CusID_33458,Crossover
+CusID_33459,Sports Utility Vehicle
+CusID_33460,Sportscar
+CusID_33461,Compact Utility Vehicle
+CusID_33462,Sports Utility Vehicle
+CusID_33463,Sportscar
+CusID_33464,Compact Utility Vehicle
+CusID_33465,Sports Utility Vehicle
+CusID_33466,Crossover
+CusID_33467,Sedan
+CusID_33468,Sedan
+CusID_33469,Compact Sedan
+CusID_33470,Pickup-Truck
+CusID_33471,Luxury Sedan
+CusID_33472,Crossover
+CusID_33473,Utility Vehicle
+CusID_33474,Sports Utility Vehicle
+CusID_33475,Compact Sedan
+CusID_33476,Luxury Sedan
+CusID_33477,Sports Utility Vehicle
+CusID_33478,Sedan
+CusID_33479,Pickup-Truck
+CusID_33480,Luxury Sedan
+CusID_33481,Crossover
+CusID_33482,Crossover
+CusID_33483,Sports Sedan
+CusID_33484,Hatchback
+CusID_33485,Luxury Sedan
+CusID_33486,Crossover
+CusID_33487,Hatchback
+CusID_33488,Compact Utility Vehicle
+CusID_33489,Utility Vehicle
+CusID_33490,Sports Sedan
+CusID_33491,Sports Coupe
+CusID_33492,Coupe
+CusID_33493,Sports Sedan
+CusID_33494,Luxury Sedan
+CusID_33495,Utility Vehicle
+CusID_33496,Utility Vehicle
+CusID_33497,Compact Utility Vehicle
+CusID_33498,Sports Utility Vehicle
+CusID_33499,Utility Vehicle
+CusID_33500,Pickup-Truck
+CusID_33501,Luxury Sedan
+CusID_33502,Sedan
+CusID_33503,Luxury Sedan
+CusID_33504,Sports Sedan
+CusID_33505,Sedan
+CusID_33506,Pickup-Truck
+CusID_33507,Sports Sedan
+CusID_33508,Compact Utility Vehicle
+CusID_33509,Luxury Coupe
+CusID_33510,Compact Utility Vehicle
+CusID_33511,Crossover
+CusID_33512,Pickup-Truck
+CusID_33513,Sports Utility Vehicle
+CusID_33514,Minivan
+CusID_33515,Sports Sedan
+CusID_33516,Hatchback
+CusID_33517,Sports Sedan
+CusID_33518,Crossover
+CusID_33519,Compact Utility Vehicle
+CusID_33520,Luxury Sedan
+CusID_33521,Compact Utility Vehicle
+CusID_33522,Sports Utility Vehicle
+CusID_33523,Compact Utility Vehicle
+CusID_33524,Sports Sedan
+CusID_33525,Sports Utility Vehicle
+CusID_33526,Compact Sedan
+CusID_33527,Hatchback
+CusID_33528,Pickup-Truck
+CusID_33529,Minivan
+CusID_33530,Luxury Coupe
+CusID_33531,Utility Vehicle
+CusID_33532,Crossover
+CusID_33533,Sports Sedan
+CusID_33534,Compact Utility Vehicle
+CusID_33535,Luxury Coupe
+CusID_33536,Crossover
+CusID_33537,Hatchback
+CusID_33538,Hatchback
+CusID_33539,Utility Vehicle
+CusID_33540,Utility Vehicle
+CusID_33541,Compact Utility Vehicle
+CusID_33542,Utility Vehicle
+CusID_33543,Compact Sedan
+CusID_33544,Crossover
+CusID_33545,Pickup-Truck
+CusID_33546,Sports Utility Vehicle
+CusID_33547,Pickup-Truck
+CusID_33548,Luxury Sedan
+CusID_33549,Crossover
+CusID_33550,Sedan
+CusID_33551,Luxury Sedan
+CusID_33552,Crossover
+CusID_33553,Crossover
+CusID_33554,Sports Utility Vehicle
+CusID_33555,Luxury Sedan
+CusID_33556,Compact Sedan
+CusID_33557,Utility Vehicle
+CusID_33558,Luxury Sedan
+CusID_33559,Compact Sedan
+CusID_33560,Compact Utility Vehicle
+CusID_33561,Crossover
+CusID_33562,Pickup-Truck
+CusID_33563,Hatchback
+CusID_33564,Hatchback
+CusID_33565,Crossover
+CusID_33566,Sports Sedan
+CusID_33567,Sports Utility Vehicle
+CusID_33568,Sports Utility Vehicle
+CusID_33569,Hatchback
+CusID_33570,Sports Utility Vehicle
+CusID_33571,Luxury Sedan
+CusID_33572,Convertible
+CusID_33573,Crossover
+CusID_33574,Compact Utility Vehicle
+CusID_33575,Luxury Coupe
+CusID_33576,Pickup-Truck
+CusID_33577,Sports Sedan
+CusID_33578,Crossover
+CusID_33579,Sedan
+CusID_33580,Sedan
+CusID_33581,Sports Utility Vehicle
+CusID_33582,Hatchback
+CusID_33583,Hatchback
+CusID_33584,Hatchback
+CusID_33585,Utility Vehicle
+CusID_33586,Sports Utility Vehicle
+CusID_33587,Luxury Sedan
+CusID_33588,Hatchback
+CusID_33589,Hatchback
+CusID_33590,Sports Utility Vehicle
+CusID_33591,Sportscar
+CusID_33592,Luxury Sedan
+CusID_33593,Sports Sedan
+CusID_33594,Compact Utility Vehicle
+CusID_33595,Compact Sedan
+CusID_33596,Sports Sedan
+CusID_33597,Luxury Sedan
+CusID_33598,Sportscar
+CusID_33599,Hatchback
+CusID_33600,Compact Sedan
+CusID_33601,Luxury Sedan
+CusID_33602,Compact Utility Vehicle
+CusID_33603,Luxury Sedan
+CusID_33604,Luxury Coupe
+CusID_33605,Compact Utility Vehicle
+CusID_33606,Sedan
+CusID_33607,Compact Utility Vehicle
+CusID_33608,Compact Utility Vehicle
+CusID_33609,Coupe
+CusID_33610,Sports Coupe
+CusID_33611,Hatchback
+CusID_33612,Sports Coupe
+CusID_33613,Coupe
+CusID_33614,Sports Utility Vehicle
+CusID_33615,Hatchback
+CusID_33616,Utility Vehicle
+CusID_33617,Convertible
+CusID_33618,Station Wagon
+CusID_33619,Compact Utility Vehicle
+CusID_33620,Compact Utility Vehicle
+CusID_33621,Luxury Sedan
+CusID_33622,Crossover
+CusID_33623,Sports Utility Vehicle
+CusID_33624,Sportscar
+CusID_33625,Compact Utility Vehicle
+CusID_33626,Sedan
+CusID_33627,Sports Utility Vehicle
+CusID_33628,Compact Sedan
+CusID_33629,Utility Vehicle
+CusID_33630,Sports Sedan
+CusID_33631,Sports Sedan
+CusID_33632,Convertible
+CusID_33633,Coupe
+CusID_33634,Luxury Sedan
+CusID_33635,Sedan
+CusID_33636,Compact Utility Vehicle
+CusID_33637,Sports Coupe
+CusID_33638,Crossover
+CusID_33639,Luxury Coupe
+CusID_33640,Compact Sedan
+CusID_33641,Luxury Sedan
+CusID_33642,Utility Vehicle
+CusID_33643,Sports Sedan
+CusID_33644,Sportscar
+CusID_33645,Sports Sedan
+CusID_33646,Compact Utility Vehicle
+CusID_33647,Luxury Sedan
+CusID_33648,Sportscar
+CusID_33649,Coupe
+CusID_33650,Pickup-Truck
+CusID_33651,Sports Utility Vehicle
+CusID_33652,Hatchback
+CusID_33653,Sedan
+CusID_33654,Sports Sedan
+CusID_33655,Utility Vehicle
+CusID_33656,Luxury Sedan
+CusID_33657,Compact Sedan
+CusID_33658,Crossover
+CusID_33659,Luxury Sedan
+CusID_33660,Minivan
+CusID_33661,Sedan
+CusID_33662,Sedan
+CusID_33663,Hatchback
+CusID_33664,Luxury Sedan
+CusID_33665,Crossover
+CusID_33666,Compact Utility Vehicle
+CusID_33667,Sports Utility Vehicle
+CusID_33668,Sports Utility Vehicle
+CusID_33669,Utility Vehicle
+CusID_33670,Sportscar
+CusID_33671,Compact Utility Vehicle
+CusID_33672,Compact Utility Vehicle
+CusID_33673,Luxury Sedan
+CusID_33674,Crossover
+CusID_33675,Convertible
+CusID_33676,Luxury Sedan
+CusID_33677,Luxury Sedan
+CusID_33678,Luxury Coupe
+CusID_33679,Sedan
+CusID_33680,Luxury Coupe
+CusID_33681,Hatchback
+CusID_33682,Luxury Sedan
+CusID_33683,Sports Utility Vehicle
+CusID_33684,Hatchback
+CusID_33685,Crossover
+CusID_33686,Sports Sedan
+CusID_33687,Luxury Sedan
+CusID_33688,Minivan
+CusID_33689,Sports Utility Vehicle
+CusID_33690,Utility Vehicle
+CusID_33691,Coupe
+CusID_33692,Crossover
+CusID_33693,Sports Sedan
+CusID_33694,Luxury Sedan
+CusID_33695,Sedan
+CusID_33696,Sports Sedan
+CusID_33697,Sports Sedan
+CusID_33698,Sports Utility Vehicle
+CusID_33699,Sedan
+CusID_33700,Hatchback
+CusID_33701,Pickup-Truck
+CusID_33702,Sports Utility Vehicle
+CusID_33703,Compact Utility Vehicle
+CusID_33704,Sports Utility Vehicle
+CusID_33705,Pickup-Truck
+CusID_33706,Sports Sedan
+CusID_33707,Coupe
+CusID_33708,Sports Sedan
+CusID_33709,Compact Utility Vehicle
+CusID_33710,Compact Utility Vehicle
+CusID_33711,Pickup-Truck
+CusID_33712,Crossover
+CusID_33713,Pickup-Truck
+CusID_33714,Sports Utility Vehicle
+CusID_33715,Luxury Sedan
+CusID_33716,Hatchback
+CusID_33717,Sedan
+CusID_33718,Sports Utility Vehicle
+CusID_33719,Sportscar
+CusID_33720,Crossover
+CusID_33721,Sports Sedan
+CusID_33722,Luxury Sedan
+CusID_33723,Compact Utility Vehicle
+CusID_33724,Sedan
+CusID_33725,Sedan
+CusID_33726,Compact Utility Vehicle
+CusID_33727,Sports Utility Vehicle
+CusID_33728,Sportscar
+CusID_33729,Station Wagon
+CusID_33730,Compact Sedan
+CusID_33731,Sedan
+CusID_33732,Utility Vehicle
+CusID_33733,Sedan
+CusID_33734,Station Wagon
+CusID_33735,Compact Utility Vehicle
+CusID_33736,Coupe
+CusID_33737,Crossover
+CusID_33738,Compact Sedan
+CusID_33739,Hatchback
+CusID_33740,Compact Utility Vehicle
+CusID_33741,Sports Sedan
+CusID_33742,Utility Vehicle
+CusID_33743,Crossover
+CusID_33744,Crossover
+CusID_33745,Luxury Sedan
+CusID_33746,Crossover
+CusID_33747,Utility Vehicle
+CusID_33748,Utility Vehicle
+CusID_33749,Hatchback
+CusID_33750,Sports Sedan
+CusID_33751,Crossover
+CusID_33752,Compact Utility Vehicle
+CusID_33753,Compact Utility Vehicle
+CusID_33754,Hatchback
+CusID_33755,Sports Sedan
+CusID_33756,Compact Utility Vehicle
+CusID_33757,Hatchback
+CusID_33758,Utility Vehicle
+CusID_33759,Pickup-Truck
+CusID_33760,Minivan
+CusID_33761,Luxury Sedan
+CusID_33762,Compact Utility Vehicle
+CusID_33763,Hatchback
+CusID_33764,Sedan
+CusID_33765,Sportscar
+CusID_33766,Pickup-Truck
+CusID_33767,Luxury Sedan
+CusID_33768,Sports Sedan
+CusID_33769,Hatchback
+CusID_33770,Compact Utility Vehicle
+CusID_33771,Utility Vehicle
+CusID_33772,Utility Vehicle
+CusID_33773,Compact Utility Vehicle
+CusID_33774,Crossover
+CusID_33775,Compact Utility Vehicle
+CusID_33776,Luxury Coupe
+CusID_33777,Sedan
+CusID_33778,Crossover
+CusID_33779,Coupe
+CusID_33780,Sports Sedan
+CusID_33781,Crossover
+CusID_33782,Sedan
+CusID_33783,Sports Sedan
+CusID_33784,Hatchback
+CusID_33785,Compact Utility Vehicle
+CusID_33786,Utility Vehicle
+CusID_33787,Sedan
+CusID_33788,Sports Coupe
+CusID_33789,Crossover
+CusID_33790,Utility Vehicle
+CusID_33791,Sports Utility Vehicle
+CusID_33792,Sports Utility Vehicle
+CusID_33793,Convertible
+CusID_33794,Sports Sedan
+CusID_33795,Sports Coupe
+CusID_33796,Compact Sedan
+CusID_33797,Crossover
+CusID_33798,Luxury Coupe
+CusID_33799,Crossover
+CusID_33800,Sportscar
+CusID_33801,Sports Utility Vehicle
+CusID_33802,Luxury Coupe
+CusID_33803,Hatchback
+CusID_33804,Sports Sedan
+CusID_33805,Crossover
+CusID_33806,Sedan
+CusID_33807,Sports Sedan
+CusID_33808,Convertible
+CusID_33809,Sedan
+CusID_33810,Sedan
+CusID_33811,Luxury Sedan
+CusID_33812,Compact Utility Vehicle
+CusID_33813,Sports Utility Vehicle
+CusID_33814,Utility Vehicle
+CusID_33815,Sports Utility Vehicle
+CusID_33816,Sports Utility Vehicle
+CusID_33817,Compact Sedan
+CusID_33818,Compact Utility Vehicle
+CusID_33819,Convertible
+CusID_33820,Sports Sedan
+CusID_33821,Sports Sedan
+CusID_33822,Utility Vehicle
+CusID_33823,Utility Vehicle
+CusID_33824,Utility Vehicle
+CusID_33825,Hatchback
+CusID_33826,Crossover
+CusID_33827,Sedan
+CusID_33828,Sports Sedan
+CusID_33829,Compact Utility Vehicle
+CusID_33830,Crossover
+CusID_33831,Sports Sedan
+CusID_33832,Compact Utility Vehicle
+CusID_33833,Pickup-Truck
+CusID_33834,Sports Utility Vehicle
+CusID_33835,Sports Utility Vehicle
+CusID_33836,Sports Utility Vehicle
+CusID_33837,Compact Sedan
+CusID_33838,Convertible
+CusID_33839,Minivan
+CusID_33840,Compact Sedan
+CusID_33841,Crossover
+CusID_33842,Hatchback
+CusID_33843,Sports Utility Vehicle
+CusID_33844,Compact Utility Vehicle
+CusID_33845,Sports Sedan
+CusID_33846,Crossover
+CusID_33847,Sedan
+CusID_33848,Crossover
+CusID_33849,Compact Utility Vehicle
+CusID_33850,Sports Utility Vehicle
+CusID_33851,Compact Utility Vehicle
+CusID_33852,Hatchback
+CusID_33853,Luxury Sedan
+CusID_33854,Sportscar
+CusID_33855,Sedan
+CusID_33856,Sportscar
+CusID_33857,Sedan
+CusID_33858,Pickup-Truck
+CusID_33859,Compact Utility Vehicle
+CusID_33860,Sedan
+CusID_33861,Sports Utility Vehicle
+CusID_33862,Crossover
+CusID_33863,Crossover
+CusID_33864,Sports Sedan
+CusID_33865,Crossover
+CusID_33866,Sedan
+CusID_33867,Utility Vehicle
+CusID_33868,Sportscar
+CusID_33869,Sports Coupe
+CusID_33870,Sedan
+CusID_33871,Sports Coupe
+CusID_33872,Sports Sedan
+CusID_33873,Hatchback
+CusID_33874,Compact Utility Vehicle
+CusID_33875,Crossover
+CusID_33876,Compact Sedan
+CusID_33877,Sports Coupe
+CusID_33878,Coupe
+CusID_33879,Crossover
+CusID_33880,Sports Sedan
+CusID_33881,Sports Utility Vehicle
+CusID_33882,Sports Sedan
+CusID_33883,Hatchback
+CusID_33884,Hatchback
+CusID_33885,Sports Sedan
+CusID_33886,Luxury Sedan
+CusID_33887,Convertible
+CusID_33888,Sedan
+CusID_33889,Sports Sedan
+CusID_33890,Luxury Sedan
+CusID_33891,Luxury Coupe
+CusID_33892,Hatchback
+CusID_33893,Sportscar
+CusID_33894,Luxury Sedan
+CusID_33895,Compact Utility Vehicle
+CusID_33896,Luxury Sedan
+CusID_33897,Sports Sedan
+CusID_33898,Sports Utility Vehicle
+CusID_33899,Sports Sedan
+CusID_33900,Compact Utility Vehicle
+CusID_33901,Utility Vehicle
+CusID_33902,Sedan
+CusID_33903,Sports Sedan
+CusID_33904,Utility Vehicle
+CusID_33905,Crossover
+CusID_33906,Hatchback
+CusID_33907,Sports Sedan
+CusID_33908,Sports Sedan
+CusID_33909,Sports Sedan
+CusID_33910,Sports Utility Vehicle
+CusID_33911,Compact Utility Vehicle
+CusID_33912,Hatchback
+CusID_33913,Luxury Coupe
+CusID_33914,Crossover
+CusID_33915,Luxury Coupe
+CusID_33916,Utility Vehicle
+CusID_33917,Compact Utility Vehicle
+CusID_33918,Sports Utility Vehicle
+CusID_33919,Luxury Sedan
+CusID_33920,Station Wagon
+CusID_33921,Sports Sedan
+CusID_33922,Utility Vehicle
+CusID_33923,Crossover
+CusID_33924,Utility Vehicle
+CusID_33925,Hatchback
+CusID_33926,Convertible
+CusID_33927,Pickup-Truck
+CusID_33928,Sports Sedan
+CusID_33929,Luxury Sedan
+CusID_33930,Hatchback
+CusID_33931,Sedan
+CusID_33932,Sports Utility Vehicle
+CusID_33933,Sports Sedan
+CusID_33934,Luxury Coupe
+CusID_33935,Luxury Sedan
+CusID_33936,Compact Utility Vehicle
+CusID_33937,Sports Sedan
+CusID_33938,Compact Utility Vehicle
+CusID_33939,Luxury Sedan
+CusID_33940,Sports Sedan
+CusID_33941,Luxury Sedan
+CusID_33942,Crossover
+CusID_33943,Sports Utility Vehicle
+CusID_33944,Convertible
+CusID_33945,Minivan
+CusID_33946,Compact Utility Vehicle
+CusID_33947,Luxury Sedan
+CusID_33948,Coupe
+CusID_33949,Sedan
+CusID_33950,Utility Vehicle
+CusID_33951,Utility Vehicle
+CusID_33952,Sports Utility Vehicle
+CusID_33953,Crossover
+CusID_33954,Crossover
+CusID_33955,Compact Utility Vehicle
+CusID_33956,Sports Utility Vehicle
+CusID_33957,Compact Utility Vehicle
+CusID_33958,Sports Utility Vehicle
+CusID_33959,Crossover
+CusID_33960,Utility Vehicle
+CusID_33961,Utility Vehicle
+CusID_33962,Sports Utility Vehicle
+CusID_33963,Hatchback
+CusID_33964,Luxury Sedan
+CusID_33965,Sports Sedan
+CusID_33966,Crossover
+CusID_33967,Sedan
+CusID_33968,Pickup-Truck
+CusID_33969,Sports Sedan
+CusID_33970,Pickup-Truck
+CusID_33971,Luxury Sedan
+CusID_33972,Compact Utility Vehicle
+CusID_33973,Pickup-Truck
+CusID_33974,Sports Utility Vehicle
+CusID_33975,Sportscar
+CusID_33976,Crossover
+CusID_33977,Sports Utility Vehicle
+CusID_33978,Hatchback
+CusID_33979,Sports Utility Vehicle
+CusID_33980,Utility Vehicle
+CusID_33981,Crossover
+CusID_33982,Compact Utility Vehicle
+CusID_33983,Crossover
+CusID_33984,Sports Sedan
+CusID_33985,Compact Utility Vehicle
+CusID_33986,Utility Vehicle
+CusID_33987,Sports Utility Vehicle
+CusID_33988,Compact Utility Vehicle
+CusID_33989,Compact Utility Vehicle
+CusID_33990,Convertible
+CusID_33991,Crossover
+CusID_33992,Utility Vehicle
+CusID_33993,Sports Sedan
+CusID_33994,Hatchback
+CusID_33995,Sedan
+CusID_33996,Luxury Coupe
+CusID_33997,Compact Sedan
+CusID_33998,Sports Utility Vehicle
+CusID_33999,Utility Vehicle
+CusID_34000,Sports Sedan
+CusID_34001,Crossover
+CusID_34002,Sedan
+CusID_34003,Luxury Sedan
+CusID_34004,Utility Vehicle
+CusID_34005,Sports Utility Vehicle
+CusID_34006,Luxury Coupe
+CusID_34007,Crossover
+CusID_34008,Pickup-Truck
+CusID_34009,Compact Sedan
+CusID_34010,Sedan
+CusID_34011,Crossover
+CusID_34012,Utility Vehicle
+CusID_34013,Sedan
+CusID_34014,Sportscar
+CusID_34015,Hatchback
+CusID_34016,Luxury Sedan
+CusID_34017,Sports Coupe
+CusID_34018,Crossover
+CusID_34019,Sedan
+CusID_34020,Compact Utility Vehicle
+CusID_34021,Minivan
+CusID_34022,Luxury Sedan
+CusID_34023,Sports Utility Vehicle
+CusID_34024,Crossover
+CusID_34025,Compact Utility Vehicle
+CusID_34026,Sedan
+CusID_34027,Hatchback
+CusID_34028,Sports Sedan
+CusID_34029,Coupe
+CusID_34030,Luxury Sedan
+CusID_34031,Crossover
+CusID_34032,Compact Utility Vehicle
+CusID_34033,Utility Vehicle
+CusID_34034,Luxury Sedan
+CusID_34035,Sedan
+CusID_34036,Crossover
+CusID_34037,Sports Utility Vehicle
+CusID_34038,Sedan
+CusID_34039,Compact Sedan
+CusID_34040,Sportscar
+CusID_34041,Compact Utility Vehicle
+CusID_34042,Hatchback
+CusID_34043,Convertible
+CusID_34044,Sports Coupe
+CusID_34045,Sports Utility Vehicle
+CusID_34046,Crossover
+CusID_34047,Hatchback
+CusID_34048,Sports Coupe
+CusID_34049,Utility Vehicle
+CusID_34050,Minivan
+CusID_34051,Sports Utility Vehicle
+CusID_34052,Crossover
+CusID_34053,Utility Vehicle
+CusID_34054,Sports Utility Vehicle
+CusID_34055,Crossover
+CusID_34056,Sports Utility Vehicle
+CusID_34057,Compact Sedan
+CusID_34058,Luxury Coupe
+CusID_34059,Crossover
+CusID_34060,Compact Utility Vehicle
+CusID_34061,Compact Utility Vehicle
+CusID_34062,Luxury Sedan
+CusID_34063,Luxury Coupe
+CusID_34064,Compact Utility Vehicle
+CusID_34065,Sports Utility Vehicle
+CusID_34066,Sports Utility Vehicle
+CusID_34067,Pickup-Truck
+CusID_34068,Sports Sedan
+CusID_34069,Pickup-Truck
+CusID_34070,Hatchback
+CusID_34071,Pickup-Truck
+CusID_34072,Sports Sedan
+CusID_34073,Sports Utility Vehicle
+CusID_34074,Crossover
+CusID_34075,Utility Vehicle
+CusID_34076,Convertible
+CusID_34077,Luxury Sedan
+CusID_34078,Sports Utility Vehicle
+CusID_34079,Coupe
+CusID_34080,Utility Vehicle
+CusID_34081,Sportscar
+CusID_34082,Luxury Sedan
+CusID_34083,Luxury Sedan
+CusID_34084,Utility Vehicle
+CusID_34085,Hatchback
+CusID_34086,Sportscar
+CusID_34087,Compact Utility Vehicle
+CusID_34088,Pickup-Truck
+CusID_34089,Sedan
+CusID_34090,Sedan
+CusID_34091,Pickup-Truck
+CusID_34092,Sports Sedan
+CusID_34093,Sportscar
+CusID_34094,Coupe
+CusID_34095,Sedan
+CusID_34096,Utility Vehicle
+CusID_34097,Station Wagon
+CusID_34098,Pickup-Truck
+CusID_34099,Hatchback
+CusID_34100,Compact Utility Vehicle
+CusID_34101,Luxury Sedan
+CusID_34102,Pickup-Truck
+CusID_34103,Utility Vehicle
+CusID_34104,Luxury Sedan
+CusID_34105,Compact Sedan
+CusID_34106,Sedan
+CusID_34107,Hatchback
+CusID_34108,Pickup-Truck
+CusID_34109,Sports Sedan
+CusID_34110,Convertible
+CusID_34111,Luxury Coupe
+CusID_34112,Compact Utility Vehicle
+CusID_34113,Utility Vehicle
+CusID_34114,Sportscar
+CusID_34115,Coupe
+CusID_34116,Compact Utility Vehicle
+CusID_34117,Sports Coupe
+CusID_34118,Luxury Sedan
+CusID_34119,Sports Sedan
+CusID_34120,Luxury Sedan
+CusID_34121,Station Wagon
+CusID_34122,Sports Utility Vehicle
+CusID_34123,Sports Sedan
+CusID_34124,Compact Utility Vehicle
+CusID_34125,Station Wagon
+CusID_34126,Compact Utility Vehicle
+CusID_34127,Station Wagon
+CusID_34128,Sports Utility Vehicle
+CusID_34129,Utility Vehicle
+CusID_34130,Compact Utility Vehicle
+CusID_34131,Hatchback
+CusID_34132,Compact Utility Vehicle
+CusID_34133,Sports Coupe
+CusID_34134,Sports Utility Vehicle
+CusID_34135,Luxury Coupe
+CusID_34136,Luxury Sedan
+CusID_34137,Pickup-Truck
+CusID_34138,Luxury Coupe
+CusID_34139,Crossover
+CusID_34140,Crossover
+CusID_34141,Sedan
+CusID_34142,Crossover
+CusID_34143,Luxury Sedan
+CusID_34144,Luxury Sedan
+CusID_34145,Crossover
+CusID_34146,Compact Utility Vehicle
+CusID_34147,Utility Vehicle
+CusID_34148,Utility Vehicle
+CusID_34149,Luxury Sedan
+CusID_34150,Sports Sedan
+CusID_34151,Sedan
+CusID_34152,Utility Vehicle
+CusID_34153,Compact Utility Vehicle
+CusID_34154,Sports Utility Vehicle
+CusID_34155,Sports Sedan
+CusID_34156,Sportscar
+CusID_34157,Minivan
+CusID_34158,Sports Sedan
+CusID_34159,Luxury Sedan
+CusID_34160,Sedan
+CusID_34161,Crossover
+CusID_34162,Crossover
+CusID_34163,Crossover
+CusID_34164,Utility Vehicle
+CusID_34165,Sports Utility Vehicle
+CusID_34166,Compact Sedan
+CusID_34167,Compact Utility Vehicle
+CusID_34168,Hatchback
+CusID_34169,Sedan
+CusID_34170,Crossover
+CusID_34171,Sports Sedan
+CusID_34172,Sports Sedan
+CusID_34173,Sports Sedan
+CusID_34174,Luxury Sedan
+CusID_34175,Compact Utility Vehicle
+CusID_34176,Crossover
+CusID_34177,Luxury Sedan
+CusID_34178,Compact Utility Vehicle
+CusID_34179,Coupe
+CusID_34180,Sports Utility Vehicle
+CusID_34181,Compact Sedan
+CusID_34182,Crossover
+CusID_34183,Luxury Sedan
+CusID_34184,Luxury Sedan
+CusID_34185,Luxury Sedan
+CusID_34186,Sports Sedan
+CusID_34187,Compact Utility Vehicle
+CusID_34188,Sports Sedan
+CusID_34189,Luxury Coupe
+CusID_34190,Crossover
+CusID_34191,Compact Utility Vehicle
+CusID_34192,Sports Utility Vehicle
+CusID_34193,Compact Sedan
+CusID_34194,Sedan
+CusID_34195,Compact Utility Vehicle
+CusID_34196,Hatchback
+CusID_34197,Hatchback
+CusID_34198,Minivan
+CusID_34199,Sports Sedan
+CusID_34200,Crossover
+CusID_34201,Compact Sedan
+CusID_34202,Compact Utility Vehicle
+CusID_34203,Sports Sedan
+CusID_34204,Sedan
+CusID_34205,Pickup-Truck
+CusID_34206,Crossover
+CusID_34207,Compact Utility Vehicle
+CusID_34208,Utility Vehicle
+CusID_34209,Crossover
+CusID_34210,Sedan
+CusID_34211,Hatchback
+CusID_34212,Sportscar
+CusID_34213,Convertible
+CusID_34214,Sports Coupe
+CusID_34215,Crossover
+CusID_34216,Hatchback
+CusID_34217,Pickup-Truck
+CusID_34218,Sports Utility Vehicle
+CusID_34219,Luxury Coupe
+CusID_34220,Compact Utility Vehicle
+CusID_34221,Hatchback
+CusID_34222,Luxury Sedan
+CusID_34223,Sports Sedan
+CusID_34224,Sedan
+CusID_34225,Coupe
+CusID_34226,Utility Vehicle
+CusID_34227,Luxury Sedan
+CusID_34228,Crossover
+CusID_34229,Crossover
+CusID_34230,Luxury Sedan
+CusID_34231,Crossover
+CusID_34232,Sports Coupe
+CusID_34233,Sports Utility Vehicle
+CusID_34234,Crossover
+CusID_34235,Compact Utility Vehicle
+CusID_34236,Sedan
+CusID_34237,Hatchback
+CusID_34238,Pickup-Truck
+CusID_34239,Utility Vehicle
+CusID_34240,Sportscar
+CusID_34241,Sports Utility Vehicle
+CusID_34242,Sports Utility Vehicle
+CusID_34243,Compact Utility Vehicle
+CusID_34244,Sports Sedan
+CusID_34245,Utility Vehicle
+CusID_34246,Crossover
+CusID_34247,Sports Coupe
+CusID_34248,Sports Sedan
+CusID_34249,Compact Utility Vehicle
+CusID_34250,Luxury Sedan
+CusID_34251,Pickup-Truck
+CusID_34252,Sports Utility Vehicle
+CusID_34253,Sports Sedan
+CusID_34254,Crossover
+CusID_34255,Hatchback
+CusID_34256,Utility Vehicle
+CusID_34257,Hatchback
+CusID_34258,Crossover
+CusID_34259,Sedan
+CusID_34260,Luxury Sedan
+CusID_34261,Crossover
+CusID_34262,Utility Vehicle
+CusID_34263,Sports Utility Vehicle
+CusID_34264,Utility Vehicle
+CusID_34265,Sedan
+CusID_34266,Luxury Sedan
+CusID_34267,Compact Utility Vehicle
+CusID_34268,Convertible
+CusID_34269,Sports Utility Vehicle
+CusID_34270,Sportscar
+CusID_34271,Crossover
+CusID_34272,Crossover
+CusID_34273,Compact Utility Vehicle
+CusID_34274,Hatchback
+CusID_34275,Convertible
+CusID_34276,Sports Sedan
+CusID_34277,Coupe
+CusID_34278,Convertible
+CusID_34279,Utility Vehicle
+CusID_34280,Luxury Sedan
+CusID_34281,Hatchback
+CusID_34282,Sports Coupe
+CusID_34283,Hatchback
+CusID_34284,Pickup-Truck
+CusID_34285,Utility Vehicle
+CusID_34286,Pickup-Truck
+CusID_34287,Compact Utility Vehicle
+CusID_34288,Luxury Sedan
+CusID_34289,Crossover
+CusID_34290,Sedan
+CusID_34291,Hatchback
+CusID_34292,Crossover
+CusID_34293,Utility Vehicle
+CusID_34294,Sedan
+CusID_34295,Sports Sedan
+CusID_34296,Sports Utility Vehicle
+CusID_34297,Crossover
+CusID_34298,Sports Coupe
+CusID_34299,Pickup-Truck
+CusID_34300,Sports Sedan
+CusID_34301,Hatchback
+CusID_34302,Compact Utility Vehicle
+CusID_34303,Luxury Sedan
+CusID_34304,Sports Sedan
+CusID_34305,Luxury Sedan
+CusID_34306,Hatchback
+CusID_34307,Sedan
+CusID_34308,Hatchback
+CusID_34309,Convertible
+CusID_34310,Crossover
+CusID_34311,Compact Utility Vehicle
+CusID_34312,Crossover
+CusID_34313,Utility Vehicle
+CusID_34314,Crossover
+CusID_34315,Luxury Sedan
+CusID_34316,Sports Sedan
+CusID_34317,Compact Utility Vehicle
+CusID_34318,Sedan
+CusID_34319,Sedan
+CusID_34320,Sports Utility Vehicle
+CusID_34321,Utility Vehicle
+CusID_34322,Sedan
+CusID_34323,Hatchback
+CusID_34324,Utility Vehicle
+CusID_34325,Compact Sedan
+CusID_34326,Sports Sedan
+CusID_34327,Luxury Sedan
+CusID_34328,Sports Sedan
+CusID_34329,Luxury Sedan
+CusID_34330,Utility Vehicle
+CusID_34331,Crossover
+CusID_34332,Sedan
+CusID_34333,Luxury Sedan
+CusID_34334,Luxury Sedan
+CusID_34335,Luxury Sedan
+CusID_34336,Luxury Sedan
+CusID_34337,Luxury Sedan
+CusID_34338,Sports Coupe
+CusID_34339,Sedan
+CusID_34340,Luxury Coupe
+CusID_34341,Sports Coupe
+CusID_34342,Sports Utility Vehicle
+CusID_34343,Sports Coupe
+CusID_34344,Sports Sedan
+CusID_34345,Sports Sedan
+CusID_34346,Sports Utility Vehicle
+CusID_34347,Pickup-Truck
+CusID_34348,Pickup-Truck
+CusID_34349,Sports Utility Vehicle
+CusID_34350,Utility Vehicle
+CusID_34351,Coupe
+CusID_34352,Hatchback
+CusID_34353,Sports Utility Vehicle
+CusID_34354,Crossover
+CusID_34355,Luxury Coupe
+CusID_34356,Sports Sedan
+CusID_34357,Sedan
+CusID_34358,Compact Utility Vehicle
+CusID_34359,Crossover
+CusID_34360,Pickup-Truck
+CusID_34361,Sports Utility Vehicle
+CusID_34362,Crossover
+CusID_34363,Sedan
+CusID_34364,Coupe
+CusID_34365,Sports Utility Vehicle
+CusID_34366,Luxury Sedan
+CusID_34367,Sports Utility Vehicle
+CusID_34368,Compact Utility Vehicle
+CusID_34369,Compact Utility Vehicle
+CusID_34370,Sports Utility Vehicle
+CusID_34371,Utility Vehicle
+CusID_34372,Luxury Coupe
+CusID_34373,Utility Vehicle
+CusID_34374,Sportscar
+CusID_34375,Crossover
+CusID_34376,Hatchback
+CusID_34377,Luxury Sedan
+CusID_34378,Crossover
+CusID_34379,Hatchback
+CusID_34380,Sports Utility Vehicle
+CusID_34381,Luxury Sedan
+CusID_34382,Sports Utility Vehicle
+CusID_34383,Luxury Sedan
+CusID_34384,Crossover
+CusID_34385,Sports Utility Vehicle
+CusID_34386,Utility Vehicle
+CusID_34387,Pickup-Truck
+CusID_34388,Sports Coupe
+CusID_34389,Luxury Sedan
+CusID_34390,Sedan
+CusID_34391,Luxury Sedan
+CusID_34392,Sportscar
+CusID_34393,Compact Utility Vehicle
+CusID_34394,Utility Vehicle
+CusID_34395,Luxury Sedan
+CusID_34396,Sports Utility Vehicle
+CusID_34397,Luxury Coupe
+CusID_34398,Sports Sedan
+CusID_34399,Sports Utility Vehicle
+CusID_34400,Sedan
+CusID_34401,Sports Utility Vehicle
+CusID_34402,Sportscar
+CusID_34403,Utility Vehicle
+CusID_34404,Sports Utility Vehicle
+CusID_34405,Station Wagon
+CusID_34406,Utility Vehicle
+CusID_34407,Luxury Sedan
+CusID_34408,Compact Utility Vehicle
+CusID_34409,Sedan
+CusID_34410,Luxury Sedan
+CusID_34411,Convertible
+CusID_34412,Sportscar
+CusID_34413,Hatchback
+CusID_34414,Sports Utility Vehicle
+CusID_34415,Compact Utility Vehicle
+CusID_34416,Sports Sedan
+CusID_34417,Hatchback
+CusID_34418,Crossover
+CusID_34419,Compact Utility Vehicle
+CusID_34420,Luxury Sedan
+CusID_34421,Luxury Sedan
+CusID_34422,Compact Utility Vehicle
+CusID_34423,Luxury Sedan
+CusID_34424,Crossover
+CusID_34425,Luxury Sedan
+CusID_34426,Sports Sedan
+CusID_34427,Sedan
+CusID_34428,Crossover
+CusID_34429,Crossover
+CusID_34430,Sports Sedan
+CusID_34431,Hatchback
+CusID_34432,Crossover
+CusID_34433,Crossover
+CusID_34434,Hatchback
+CusID_34435,Luxury Coupe
+CusID_34436,Compact Utility Vehicle
+CusID_34437,Sportscar
+CusID_34438,Luxury Sedan
+CusID_34439,Compact Utility Vehicle
+CusID_34440,Convertible
+CusID_34441,Hatchback
+CusID_34442,Sedan
+CusID_34443,Pickup-Truck
+CusID_34444,Sports Sedan
+CusID_34445,Compact Utility Vehicle
+CusID_34446,Sedan
+CusID_34447,Hatchback
+CusID_34448,Crossover
+CusID_34449,Sports Utility Vehicle
+CusID_34450,Luxury Sedan
+CusID_34451,Utility Vehicle
+CusID_34452,Pickup-Truck
+CusID_34453,Utility Vehicle
+CusID_34454,Sedan
+CusID_34455,Pickup-Truck
+CusID_34456,Crossover
+CusID_34457,Utility Vehicle
+CusID_34458,Crossover
+CusID_34459,Sports Utility Vehicle
+CusID_34460,Compact Utility Vehicle
+CusID_34461,Crossover
+CusID_34462,Sports Sedan
+CusID_34463,Sports Utility Vehicle
+CusID_34464,Sports Utility Vehicle
+CusID_34465,Sedan
+CusID_34466,Hatchback
+CusID_34467,Sports Utility Vehicle
+CusID_34468,Luxury Coupe
+CusID_34469,Sedan
+CusID_34470,Hatchback
+CusID_34471,Sedan
+CusID_34472,Luxury Coupe
+CusID_34473,Pickup-Truck
+CusID_34474,Utility Vehicle
+CusID_34475,Luxury Sedan
+CusID_34476,Hatchback
+CusID_34477,Sports Sedan
+CusID_34478,Station Wagon
+CusID_34479,Sportscar
+CusID_34480,Sedan
+CusID_34481,Compact Utility Vehicle
+CusID_34482,Sports Coupe
+CusID_34483,Compact Utility Vehicle
+CusID_34484,Compact Utility Vehicle
+CusID_34485,Sports Sedan
+CusID_34486,Utility Vehicle
+CusID_34487,Crossover
+CusID_34488,Pickup-Truck
+CusID_34489,Sportscar
+CusID_34490,Sports Sedan
+CusID_34491,Sedan
+CusID_34492,Utility vehicle
+CusID_34493,Sports Utility Vehicle
+CusID_34494,Sports Sedan
+CusID_34495,Station Wagon
+CusID_34496,Convertible
+CusID_34497,Crossover
+CusID_34498,Sports Sedan
+CusID_34499,Luxury Sedan
+CusID_34500,Pickup-Truck
+CusID_34501,Sports Sedan
+CusID_34502,Luxury Sedan
+CusID_34503,Sports Utility Vehicle
+CusID_34504,Hatchback
+CusID_34505,Pickup-Truck
+CusID_34506,Compact Utility Vehicle
+CusID_34507,Compact Utility Vehicle
+CusID_34508,Crossover
+CusID_34509,Sports Sedan
+CusID_34510,Sports Utility Vehicle
+CusID_34511,Sports Sedan
+CusID_34512,Station Wagon
+CusID_34513,Luxury Coupe
+CusID_34514,Pickup-Truck
+CusID_34515,Sports Utility Vehicle
+CusID_34516,Sports Sedan
+CusID_34517,Hatchback
+CusID_34518,Utility Vehicle
+CusID_34519,Utility Vehicle
+CusID_34520,Crossover
+CusID_34521,Pickup-Truck
+CusID_34522,Pickup-Truck
+CusID_34523,Hatchback
+CusID_34524,Sports Utility Vehicle
+CusID_34525,Pickup-Truck
+CusID_34526,Sports Utility Vehicle
+CusID_34527,Sports Utility Vehicle
+CusID_34528,Luxury Sedan
+CusID_34529,Sports Utility Vehicle
+CusID_34530,Compact Sedan
+CusID_34531,Hatchback
+CusID_34532,Crossover
+CusID_34533,Station Wagon
+CusID_34534,Luxury Sedan
+CusID_34535,Crossover
+CusID_34536,Compact Utility Vehicle
+CusID_34537,Luxury Sedan
+CusID_34538,Utility Vehicle
+CusID_34539,Sports Utility Vehicle
+CusID_34540,Compact Utility Vehicle
+CusID_34541,Sports Sedan
+CusID_34542,Sedan
+CusID_34543,Utility Vehicle
+CusID_34544,Sports Sedan
+CusID_34545,Utility Vehicle
+CusID_34546,Compact Sedan
+CusID_34547,Compact Utility Vehicle
+CusID_34548,Station Wagon
+CusID_34549,Hatchback
+CusID_34550,Crossover
+CusID_34551,Crossover
+CusID_34552,Sports Utility Vehicle
+CusID_34553,Sports Sedan
+CusID_34554,Hatchback
+CusID_34555,Compact Sedan
+CusID_34556,Sports Utility Vehicle
+CusID_34557,Sports Utility Vehicle
+CusID_34558,Luxury Sedan
+CusID_34559,Sedan
+CusID_34560,Compact Sedan
+CusID_34561,Sports Utility Vehicle
+CusID_34562,Luxury Sedan
+CusID_34563,Hatchback
+CusID_34564,Hatchback
+CusID_34565,Sedan
+CusID_34566,Compact Sedan
+CusID_34567,Compact Sedan
+CusID_34568,Crossover
+CusID_34569,Luxury Coupe
+CusID_34570,Sports Sedan
+CusID_34571,Convertible
+CusID_34572,Crossover
+CusID_34573,Crossover
+CusID_34574,Compact Utility Vehicle
+CusID_34575,Sedan
+CusID_34576,Utility Vehicle
+CusID_34577,Utility Vehicle
+CusID_34578,Compact Sedan
+CusID_34579,Sports Utility Vehicle
+CusID_34580,Compact Utility Vehicle
+CusID_34581,Utility Vehicle
+CusID_34582,Luxury Coupe
+CusID_34583,Luxury Coupe
+CusID_34584,Station Wagon
+CusID_34585,Sedan
+CusID_34586,Compact Utility Vehicle
+CusID_34587,Hatchback
+CusID_34588,Sedan
+CusID_34589,Crossover
+CusID_34590,Sports Sedan
+CusID_34591,Luxury Sedan
+CusID_34592,Luxury Sedan
+CusID_34593,Crossover
+CusID_34594,Luxury Sedan
+CusID_34595,Sports Utility Vehicle
+CusID_34596,Utility Vehicle
+CusID_34597,Utility Vehicle
+CusID_34598,Sports Sedan
+CusID_34599,Compact Sedan
+CusID_34600,Utility Vehicle
+CusID_34601,Luxury Sedan
+CusID_34602,Sedan
+CusID_34603,Compact Utility Vehicle
+CusID_34604,Sports Sedan
+CusID_34605,Luxury Coupe
+CusID_34606,Crossover
+CusID_34607,Coupe
+CusID_34608,Station Wagon
+CusID_34609,Sports Sedan
+CusID_34610,Luxury Sedan
+CusID_34611,Luxury Sedan
+CusID_34612,Sports Sedan
+CusID_34613,Luxury Sedan
+CusID_34614,Luxury Sedan
+CusID_34615,Sports Sedan
+CusID_34616,Pickup-Truck
+CusID_34617,Sports Coupe
+CusID_34618,Sedan
+CusID_34619,Hatchback
+CusID_34620,Sedan
+CusID_34621,Utility Vehicle
+CusID_34622,Sportscar
+CusID_34623,Utility Vehicle
+CusID_34624,Compact Sedan
+CusID_34625,Crossover
+CusID_34626,Utility Vehicle
+CusID_34627,Sports Utility Vehicle
+CusID_34628,Sports Utility Vehicle
+CusID_34629,Crossover
+CusID_34630,Crossover
+CusID_34631,Sports Utility Vehicle
+CusID_34632,Utility Vehicle
+CusID_34633,Pickup-Truck
+CusID_34634,Crossover
+CusID_34635,Sedan
+CusID_34636,Sports Coupe
+CusID_34637,Pickup-Truck
+CusID_34638,Compact Sedan
+CusID_34639,Sports Utility Vehicle
+CusID_34640,Compact Sedan
+CusID_34641,Compact Sedan
+CusID_34642,Luxury Sedan
+CusID_34643,Sports Sedan
+CusID_34644,Sports Utility Vehicle
+CusID_34645,Compact Utility Vehicle
+CusID_34646,Hatchback
+CusID_34647,Luxury Coupe
+CusID_34648,Sports Sedan
+CusID_34649,Utility Vehicle
+CusID_34650,Crossover
+CusID_34651,Sports Sedan
+CusID_34652,Hatchback
+CusID_34653,Crossover
+CusID_34654,Luxury Coupe
+CusID_34655,Luxury Sedan
+CusID_34656,Hatchback
+CusID_34657,Luxury Sedan
+CusID_34658,Compact Utility Vehicle
+CusID_34659,Hatchback
+CusID_34660,Crossover
+CusID_34661,Sports Sedan
+CusID_34662,Utility Vehicle
+CusID_34663,Sports Utility Vehicle
+CusID_34664,Hatchback
+CusID_34665,Sports Sedan
+CusID_34666,Pickup-Truck
+CusID_34667,Compact Utility Vehicle
+CusID_34668,Utility Vehicle
+CusID_34669,Sedan
+CusID_34670,Sports Sedan
+CusID_34671,Sports Sedan
+CusID_34672,Sedan
+CusID_34673,Sports Utility Vehicle
+CusID_34674,Sports Utility Vehicle
+CusID_34675,Hatchback
+CusID_34676,Pickup-Truck
+CusID_34677,Luxury Coupe
+CusID_34678,Luxury Sedan
+CusID_34679,Luxury Sedan
+CusID_34680,Sports Sedan
+CusID_34681,Compact Utility Vehicle
+CusID_34682,Sports Utility Vehicle
+CusID_34683,Sports Sedan
+CusID_34684,Compact Sedan
+CusID_34685,Luxury Sedan
+CusID_34686,Sports Utility Vehicle
+CusID_34687,Utility Vehicle
+CusID_34688,Utility Vehicle
+CusID_34689,Sports Sedan
+CusID_34690,Sports Sedan
+CusID_34691,Sports Utility Vehicle
+CusID_34692,Crossover
+CusID_34693,Luxury Sedan
+CusID_34694,Utility Vehicle
+CusID_34695,Crossover
+CusID_34696,Sports Sedan
+CusID_34697,Luxury Sedan
+CusID_34698,Sports Sedan
+CusID_34699,Compact Sedan
+CusID_34700,Sports Utility Vehicle
+CusID_34701,Utility Vehicle
+CusID_34702,Luxury Sedan
+CusID_34703,Sportscar
+CusID_34704,Crossover
+CusID_34705,Luxury Sedan
+CusID_34706,Utility Vehicle
+CusID_34707,Sedan
+CusID_34708,Hatchback
+CusID_34709,Crossover
+CusID_34710,Luxury Coupe
+CusID_34711,Sportscar
+CusID_34712,Sports Coupe
+CusID_34713,Hatchback
+CusID_34714,Utility Vehicle
+CusID_34715,Luxury Sedan
+CusID_34716,Crossover
+CusID_34717,Crossover
+CusID_34718,Pickup-Truck
+CusID_34719,Sedan
+CusID_34720,Luxury Sedan
+CusID_34721,Utility Vehicle
+CusID_34722,Pickup-Truck
+CusID_34723,Utility Vehicle
+CusID_34724,Luxury Sedan
+CusID_34725,Crossover
+CusID_34726,Luxury Sedan
+CusID_34727,Sedan
+CusID_34728,Pickup-Truck
+CusID_34729,Convertible
+CusID_34730,Luxury Sedan
+CusID_34731,Convertible
+CusID_34732,Sports Utility Vehicle
+CusID_34733,Luxury Sedan
+CusID_34734,Hatchback
+CusID_34735,Luxury Sedan
+CusID_34736,Utility Vehicle
+CusID_34737,Sports Coupe
+CusID_34738,Utility Vehicle
+CusID_34739,Sports Utility Vehicle
+CusID_34740,Utility Vehicle
+CusID_34741,Minivan
+CusID_34742,Sedan
+CusID_34743,Pickup-Truck
+CusID_34744,Pickup-Truck
+CusID_34745,Sports Utility Vehicle
+CusID_34746,Hatchback
+CusID_34747,Coupe
+CusID_34748,Hatchback
+CusID_34749,Sports Sedan
+CusID_34750,Sports Utility Vehicle
+CusID_34751,Utility Vehicle
+CusID_34752,Compact Utility Vehicle
+CusID_34753,Station Wagon
+CusID_34754,Crossover
+CusID_34755,Crossover
+CusID_34756,Compact Utility Vehicle
+CusID_34757,Utility Vehicle
+CusID_34758,Utility Vehicle
+CusID_34759,Utility Vehicle
+CusID_34760,Sports Sedan
+CusID_34761,Sedan
+CusID_34762,Crossover
+CusID_34763,Sports Utility Vehicle
+CusID_34764,Sports Sedan
+CusID_34765,Utility Vehicle
+CusID_34766,Crossover
+CusID_34767,Utility Vehicle
+CusID_34768,Compact Utility Vehicle
+CusID_34769,Sports Coupe
+CusID_34770,Crossover
+CusID_34771,Hatchback
+CusID_34772,Minivan
+CusID_34773,Utility Vehicle
+CusID_34774,Sports Sedan
+CusID_34775,Utility Vehicle
+CusID_34776,Pickup-Truck
+CusID_34777,Minivan
+CusID_34778,Sports Sedan
+CusID_34779,Utility Vehicle
+CusID_34780,Sedan
+CusID_34781,Coupe
+CusID_34782,Compact Utility Vehicle
+CusID_34783,Convertible
+CusID_34784,Hatchback
+CusID_34785,Sports Sedan
+CusID_34786,Crossover
+CusID_34787,Sedan
+CusID_34788,Convertible
+CusID_34789,Sports Utility Vehicle
+CusID_34790,Minivan
+CusID_34791,Pickup-Truck
+CusID_34792,Sports Sedan
+CusID_34793,Crossover
+CusID_34794,Minivan
+CusID_34795,Convertible
+CusID_34796,Sports Sedan
+CusID_34797,Convertible
+CusID_34798,Luxury Sedan
+CusID_34799,Luxury Sedan
+CusID_34800,Luxury Sedan
+CusID_34801,Luxury Sedan
+CusID_34802,Sports Coupe
+CusID_34803,Luxury Sedan
+CusID_34804,Utility Vehicle
+CusID_34805,Luxury Coupe
+CusID_34806,Pickup-Truck
+CusID_34807,Compact Utility Vehicle
+CusID_34808,Pickup-Truck
+CusID_34809,Luxury Sedan
+CusID_34810,Hatchback
+CusID_34811,Compact Sedan
+CusID_34812,Sedan
+CusID_34813,Sedan
+CusID_34814,Luxury Sedan
+CusID_34815,Sedan
+CusID_34816,Luxury Sedan
+CusID_34817,Luxury Coupe
+CusID_34818,Crossover
+CusID_34819,Sports Utility Vehicle
+CusID_34820,Crossover
+CusID_34821,Luxury Sedan
+CusID_34822,Pickup-Truck
+CusID_34823,Sports Coupe
+CusID_34824,Sedan
+CusID_34825,Luxury Coupe
+CusID_34826,Crossover
+CusID_34827,Sedan
+CusID_34828,Sports Coupe
+CusID_34829,Pickup-Truck
+CusID_34830,Sports Utility Vehicle
+CusID_34831,Crossover
+CusID_34832,Crossover
+CusID_34833,Luxury Sedan
+CusID_34834,Sports Sedan
+CusID_34835,Sedan
+CusID_34836,Utility Vehicle
+CusID_34837,Sports Sedan
+CusID_34838,Sportscar
+CusID_34839,Sports Coupe
+CusID_34840,Compact Utility Vehicle
+CusID_34841,Sports Utility Vehicle
+CusID_34842,Sedan
+CusID_34843,Compact Utility Vehicle
+CusID_34844,Sedan
+CusID_34845,Compact Utility Vehicle
+CusID_34846,Sports Utility Vehicle
+CusID_34847,Utility Vehicle
+CusID_34848,Luxury Sedan
+CusID_34849,Hatchback
+CusID_34850,Hatchback
+CusID_34851,Compact Utility Vehicle
+CusID_34852,Minivan
+CusID_34853,Luxury Sedan
+CusID_34854,Crossover
+CusID_34855,Sports Sedan
+CusID_34856,Sports Coupe
+CusID_34857,Luxury Coupe
+CusID_34858,Sportscar
+CusID_34859,Sports Sedan
+CusID_34860,Crossover
+CusID_34861,Convertible
+CusID_34862,Sports Utility Vehicle
+CusID_34863,Utility Vehicle
+CusID_34864,Luxury Sedan
+CusID_34865,Sports Utility Vehicle
+CusID_34866,Station Wagon
+CusID_34867,Compact Sedan
+CusID_34868,Sports Utility Vehicle
+CusID_34869,Sedan
+CusID_34870,Sports Sedan
+CusID_34871,Utility Vehicle
+CusID_34872,Sports Coupe
+CusID_34873,Sedan
+CusID_34874,Compact Utility Vehicle
+CusID_34875,Luxury Sedan
+CusID_34876,Sports Sedan
+CusID_34877,Luxury Sedan
+CusID_34878,Utility Vehicle
+CusID_34879,Utility Vehicle
+CusID_34880,Compact Utility Vehicle
+CusID_34881,Sedan
+CusID_34882,Convertible
+CusID_34883,Luxury Coupe
+CusID_34884,Sports Coupe
+CusID_34885,Luxury Sedan
+CusID_34886,Crossover
+CusID_34887,Luxury Sedan
+CusID_34888,Luxury Coupe
+CusID_34889,Crossover
+CusID_34890,Sports Utility Vehicle
+CusID_34891,Sedan
+CusID_34892,Crossover
+CusID_34893,Sports Sedan
+CusID_34894,Sports Utility Vehicle
+CusID_34895,Utility Vehicle
+CusID_34896,Compact Sedan
+CusID_34897,Sports Sedan
+CusID_34898,Hatchback
+CusID_34899,Minivan
+CusID_34900,Sports Sedan
+CusID_34901,Compact Utility Vehicle
+CusID_34902,Compact Utility Vehicle
+CusID_34903,Sedan
+CusID_34904,Pickup-Truck
+CusID_34905,Sedan
+CusID_34906,Crossover
+CusID_34907,Convertible
+CusID_34908,Compact Utility Vehicle
+CusID_34909,Sportscar
+CusID_34910,Utility Vehicle
+CusID_34911,Sports Utility Vehicle
+CusID_34912,Crossover
+CusID_34913,Minivan
+CusID_34914,Compact Utility Vehicle
+CusID_34915,Utility Vehicle
+CusID_34916,Pickup-Truck
+CusID_34917,Utility Vehicle
+CusID_34918,Utility Vehicle
+CusID_34919,Sports Sedan
+CusID_34920,Sports Utility Vehicle
+CusID_34921,Sedan
+CusID_34922,Coupe
+CusID_34923,Sedan
+CusID_34924,Hatchback
+CusID_34925,Sports Utility Vehicle
+CusID_34926,Utility Vehicle
+CusID_34927,Hatchback
+CusID_34928,Convertible
+CusID_34929,Compact Sedan
+CusID_34930,Sports Sedan
+CusID_34931,Luxury Sedan
+CusID_34932,Luxury Sedan
+CusID_34933,Crossover
+CusID_34934,Luxury Coupe
+CusID_34935,Utility Vehicle
+CusID_34936,Convertible
+CusID_34937,Compact Utility Vehicle
+CusID_34938,Luxury Sedan
+CusID_34939,Station Wagon
+CusID_34940,Compact Utility Vehicle
+CusID_34941,Sedan
+CusID_34942,Luxury Sedan
+CusID_34943,Utility Vehicle
+CusID_34944,Luxury Coupe
+CusID_34945,Sports Utility Vehicle
+CusID_34946,Pickup-Truck
+CusID_34947,Luxury Coupe
+CusID_34948,Convertible
+CusID_34949,Sedan
+CusID_34950,Sports Utility Vehicle
+CusID_34951,Utility Vehicle
+CusID_34952,Utility Vehicle
+CusID_34953,Utility Vehicle
+CusID_34954,Luxury Sedan
+CusID_34955,Sports Utility Vehicle
+CusID_34956,Compact Sedan
+CusID_34957,Crossover
+CusID_34958,Sports Sedan
+CusID_34959,Luxury Sedan
+CusID_34960,Hatchback
+CusID_34961,Sedan
+CusID_34962,Sedan
+CusID_34963,Compact Utility Vehicle
+CusID_34964,Sedan
+CusID_34965,Hatchback
+CusID_34966,Sports Utility Vehicle
+CusID_34967,Sports Sedan
+CusID_34968,Sports Utility Vehicle
+CusID_34969,Sedan
+CusID_34970,Utility Vehicle
+CusID_34971,Luxury Sedan
+CusID_34972,Station Wagon
+CusID_34973,Sports Coupe
+CusID_34974,Compact Utility Vehicle
+CusID_34975,Utility Vehicle
+CusID_34976,Sports Coupe
+CusID_34977,Sedan
+CusID_34978,Luxury Sedan
+CusID_34979,Compact Sedan
+CusID_34980,Sedan
+CusID_34981,Sports Utility Vehicle
+CusID_34982,Coupe
+CusID_34983,Sports Utility Vehicle
+CusID_34984,Sedan
+CusID_34985,Minivan
+CusID_34986,Crossover
+CusID_34987,Pickup-Truck
+CusID_34988,Crossover
+CusID_34989,Luxury Sedan
+CusID_34990,Sports Utility Vehicle
+CusID_34991,Sports Sedan
+CusID_34992,Compact Sedan
+CusID_34993,Crossover
+CusID_34994,Crossover
+CusID_34995,Sedan
+CusID_34996,Sports Sedan
+CusID_34997,Sports Utility Vehicle
+CusID_34998,Luxury Sedan
+CusID_34999,Compact Utility Vehicle
